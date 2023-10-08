@@ -263,56 +263,56 @@ p {
 /*-----------*/
 /*BUTTON*/
 /*-----------*/
-a.strona-button {
-    min-width: 205px;
-    background: transparent;
+.strona-button {
+    min-width: 205px!important;
+    background: transparent!important;
 /*    background: $theme-color;*/
-    border: 3px solid $second-color;
-    padding: 10px 30px;
-    border-radius: 3px;
-    cursor: pointer;
-    color: $second-color;
-    font-weight: 700;
-    transition: .2s;
+    border: 3px solid $second-color!important;
+    padding: 10px 30px!important;
+    border-radius: 3px!important;
+    cursor: pointer!important;
+    color: $second-color!important;
+    font-weight: 700!important;
+    transition: .2s!important;
 }
 
-a.strona-button:hover {
+.strona-button:hover {
     /*background: transparent;*/
-    background: $second-color;
+    background: $second-color!important;
 /*    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
        -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
             box-shadow: inset 0px 0px 5px #c1c1c1;*/
-    outline: none;
-    text-decoration: none;
+    outline: none!important;
+    text-decoration: none!important;
     /*box-shadow: 0 0 0 0.2rem rgba(64,64,64,.5);*/
-    border: 3px solid transparent;
-    color: $theme-color;
-    font-weight: 700;
+    border: 3px solid transparent!important;
+    color: $theme-color!important;
+    font-weight: 700!important;
 }
 
-a.strona-button:active {
+.strona-button:active {
     /*background: transparent;*/
     background-color: $second-color !important;
-    -webkit-box-shadow: inset 0px 0px 5px $second-color;
-       -moz-box-shadow: inset 0px 0px 5px $second-color;
-            box-shadow: inset 0px 0px 5px $second-color;
-    outline: none;
-    box-shadow: none;
-    border: 3px solid $second-color;
+    -webkit-box-shadow: inset 0px 0px 5px $second-color !important;
+       -moz-box-shadow: inset 0px 0px 5px $second-color !important;
+            box-shadow: inset 0px 0px 5px $second-color !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border: 3px solid $second-color !important;
     border-color: $second-color !important;
-    color: $theme-color;
+    color: $theme-color !important;
 }
-a.strona-button:focus {
+.strona-button:focus {
     /*background: transparent;*/
-    background-color: $second-color;
-    -webkit-box-shadow: inset 0px 0px 5px $second-color;
-       -moz-box-shadow: inset 0px 0px 5px $second-color;
-            box-shadow: inset 0px 0px 5px $second-color;
-    outline: none;
-    text-decoration: none;
-    box-shadow: none;
-    border: 3px solid $second-color;
-    color: $theme-color;
+    background-color: $second-color !important;
+    -webkit-box-shadow: inset 0px 0px 5px $second-color !important;
+       -moz-box-shadow: inset 0px 0px 5px $second-color !important;
+            box-shadow: inset 0px 0px 5px $second-color !important;
+    outline: none !important;
+    text-decoration: none !important;
+    box-shadow: none !important;
+    border: 3px solid $second-color !important;
+    color: $theme-color !important;
 }
 
 
@@ -452,11 +452,11 @@ a.strona-button:focus {
         .active {
             background-color: $second-color;
             
-            a {
+            & > a {
                 
 
                 span {
-                    color: $theme-color!important;
+                    color: $theme-color;
                 }
             }
         }
@@ -602,12 +602,16 @@ a.strona-button:focus {
 }
 
 .dropdown-menu .dropdown-item:focus, .dropdown-menu .dropdown-item:hover {
-    transform: scale(1.1) rotate(4deg);
+    transform: scale(1.1);
 }
 
 .dropdown-menu .dropdown-item {
-    color: #D3AC2B !important;
+    color: $second-color ;
     transition: .2s;
+    
+    span {
+        color: $second-color;
+    }
 }
 
 /*------------------------------------------------------*/
@@ -649,10 +653,7 @@ a.strona-button:focus {
         height: 3px;
         background-color: $second-color;
         width: 25%;
-        position: absolute;
-        bottom: -50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        
     }
 
 }
@@ -1025,14 +1026,14 @@ section#fp-contact {
     }
 
     a.strona-button {
-        display: ruby-text;
-        margin-top: 20px;
-        color: $theme-color;
-        border-color: $theme-color;
+        // display: ruby-text;
+        // margin-top: 20px;
+        color: $theme-color !important;
+        border-color: $theme-color !important;
 
         &:hover {
-            color: $third-color;
-            background-color: $theme-color;
+            color: $third-color !important;
+            background-color: $theme-color !important;
         }
     }
 
@@ -1098,12 +1099,12 @@ section.inny-kontakt {
     }
 
     a.strona-button {
-        color: $theme-color;
-        background-color: $second-color;
+        color: $theme-color !important;
+        background-color: $second-color !important;
 
         &:hover {
-            background-color: $theme-color;
-            color: $second-color;
+            background-color: $theme-color !important;
+            color: $second-color !important;
         }
     }
 
@@ -1431,8 +1432,8 @@ section#oferta {
     }
 
 
-    .oferta-button {
-        border: 3px solid $second-color;
+    a.oferta-button {
+        border: 3px solid $second-color !important;
     }
 }
 
@@ -1867,29 +1868,82 @@ section#kontakt-dane {
     padding: 50px 0;
 
 
-    #wpcf7-f39-o1 {
+    // #wpcf7-f39-o1 {
 
-        p {
-            margin-bottom: 5px;
+    //     p {
+    //         margin-bottom: 5px;
+    //     }
+
+    //     label {
+    //         font-size: 18px;
+    //         margin-bottom: 0;
+    //     }
+
+    //     input {
+    //         width: 100%;
+    //     }
+
+    //     .wpcf7-submit {
+    //         margin-top: 15px;
+    //     }
+    // }
+
+    .wpforms-box {
+        border: 3px solid $second-color;
+        border-radius: 5px;
+        padding: 25px;
+        background-color: $second-color;
+        box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6) !important;
+        
+        .wpforms-field {
+            padding: 5px 0;
+
+            input, textarea {
+                border: 3px solid $theme-color;
+                background-color: $third-color;
+            }
         }
 
-        label {
-            font-size: 18px;
-            margin-bottom: 0;
+        .wpforms-field-label {
+            margin: 0 0 5px 0;
+            color: $theme-color;
+            font-size: 22px;
+
         }
 
-        input {
-            width: 100%;
+        .wpforms-field-sublabel {
+            color: $theme-color;
         }
 
-        .wpcf7-submit {
-            margin-top: 15px;
+        .wpforms-field-label-inline {
+            color: $theme-color;
+
+            a {
+                color: $third-color;
+            }
+        }
+
+        .form-button {
+            background-color: $theme-color !important;
+            border: 3px solid $theme-color !important;
+            color: $third-color !important;
+            box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.8) !important;
+
+            &:hover {
+                color: $second-color !important;
+                border: 3px solid $theme-color !important;
+                box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8) !important;
+            }
         }
     }
 
 
     .contact-icon-box {
         margin-bottom: 30px;
+
+        &:first-of-type {
+            margin-top: 64px;
+        }
 
         .icon-col {
             text-align: center;
