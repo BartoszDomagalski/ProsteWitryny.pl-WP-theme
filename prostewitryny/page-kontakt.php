@@ -94,6 +94,7 @@ get_header(); ?>
         </p>
 
         <p class="contact-info-firma">
+          <strong>ProsteWitryny.pl | Strony Internetowe</strong><br>
           <strong>ProsteWitryny.pl</strong> jest częścią Family Party non-profit spółka z ograniczoną odpowiedzialnością z siedzibą w Słomnikach przy ulicy Krakowskiej 62d, 32-090 Słomniki, wpisana do rejestru przedsiębiorców przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie, XII Wydział Gospodarczy pod numerem KRS 0000746071, posiadająca REGON 38110158500000 oraz NIP 6821777738
         </p>
 

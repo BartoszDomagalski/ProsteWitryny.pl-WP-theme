@@ -22,15 +22,15 @@
                         
                         <div class="social-box">
                             <h4 class="footer-col-title">Śledź nas na:</h4>
-                            <a href="https://www.facebook.com/ProsteWitryny" target="_blank"><i class="fa-brands fa-facebook-f footer-social-icon fb-footer"></i></a>
-                            <a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank"><i class="fa-brands fa-google footer-social-icon google-footer"></i></a>
+                            <a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka"><i class="fa-brands fa-facebook-f footer-social-icon fb-footer"></i></a>
+                            <a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google"><i class="fa-brands fa-google footer-social-icon google-footer"></i></a>
                         </div>
                         
                     </div>
                     
                     <div class="col-6 col-md-3 footer-offer-col">
                         
-                        <h4 class="footer-col-title"><span><strong>Oferty</strong><br></span>dedykowane</h4>
+                        <h4 class="footer-col-title"><span>Oferta</span></h4>
                         <ul class="footer-ul">
                         <li class="footer-li">
                                 <a href="<?php echo site_url('/firmowa-strona-internetowa'); ?>" class="footer-a">Firmowe strony internetowe</a>

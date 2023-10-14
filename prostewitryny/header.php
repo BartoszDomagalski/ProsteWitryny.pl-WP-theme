@@ -36,12 +36,12 @@
 			<div class="container-fluid">
 				<div class="row top-contact-row" id="top-contact-row-id">
 					<div class="col-1 social-col">
-						<a href="https://www.facebook.com/ProsteWitryny" target="_blank">
+						<a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka">
 							<i class="fa-brands fa-facebook-f fb-top"></i>
 						</a>
 					</div>
 					<div class="col-1 social-col">
-						<a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank">
+						<a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google">
 							<i class="fa-brands fa-google top-social-icon google-top"></i>
 						</a>
 					</div>
@@ -105,6 +105,7 @@
 				</div>
 			</div>
 		</nav>
+
 		<div class="breadcrumb-div">
 			<div class="container-fluid">
 				<div class="row">
