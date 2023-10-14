@@ -16,7 +16,7 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters footer-links-row">
                     
-                    <div class="col-12 col-md-3 footer-brand-col">
+                    <div class="col-12 col-lg-3 footer-brand-col">
                     
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo/ProsteWitrynyLogo2.webp" alt="Logo" width="280" height="40" class="d-inline-block align-text-top">
                         
@@ -28,9 +28,9 @@
                         
                     </div>
                     
-                    <div class="col-6 col-md-3 footer-offer-col">
+                    <div class="col-6 col-lg-3 footer-offer-col">
                         
-                        <h4 class="footer-col-title"><span>Oferta</span></h4>
+                        <h4 class="footer-col-title">Oferta</h4>
                         <ul class="footer-ul">
                         <li class="footer-li">
                                 <a href="<?php echo site_url('/firmowa-strona-internetowa'); ?>" class="footer-a">Firmowe strony internetowe</a>
@@ -47,7 +47,7 @@
                         
                     </div>
                     
-                    <div class="col-6 col-md-3 footer-pages-col">
+                    <div class="col-6 col-lg-3 footer-pages-col">
                         
                         <h4 class="footer-col-title">Linki</h4>
                         <ul class="footer-ul">
@@ -68,12 +68,12 @@
                         
                     </div>
                     
-                    <div class="col-12 col-md-3 footer-contact-col">
+                    <div class="col-12 col-lg-3 footer-contact-col">
                         
                         <h4 class="footer-col-title">Kontakt</h4>
                         <p>
                             <a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Brogi 19/18, Kraków</a><br>
-                            <a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Krakowska 62d/1, Słomniki</a><br>
+                            <a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Krakowska 62d, Słomniki</a><br>
                             <a href="mailto:biuro@prostewitryny.pl"><i class="fa-solid fa-envelope"></i> biuro@prostewitryny.pl</a><br>
                             <a href="tel:+48602726478"><i class="fa-solid fa-phone"></i> 602 726 478</a>
                         </p>
