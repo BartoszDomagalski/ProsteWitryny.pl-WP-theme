@@ -9,7 +9,7 @@ get_header(); ?>
         <div class="row">
             <div class="col banner-col">
                 <h1><strong>Firmowa&nbsp;strona&nbsp;internetowa</strong><br>Zaistniej&nbsp;w&nbsp;sieci i&nbsp;niech&nbsp;czas zrobi&nbsp;swoje!</h1>
-                <h3>Jesteś właścicielem małej lub średniej firmy i chcesz zaistnieć w internecie? Szukasz profesjonalnej i niedrogiej usługi tworzenia stron internetowych?<br><br>Zgłoś się do nas!</h3>
+                <p>Jesteś właścicielem małej lub średniej firmy i chcesz zaistnieć w internecie? Szukasz profesjonalnej i niedrogiej usługi tworzenia stron internetowych?<br><br>Zgłoś się do nas!</p>
                 <a href="<?php echo site_url('/oferta'); ?>
 " class="strona-button">Więcej...</a>
             </div>
@@ -22,7 +22,7 @@ get_header(); ?>
         <div class="row">
             <div class="col">
                 <h2>Co robimy?</h2>
-                <h4>Tworzymy Państwa miejsce w sieci!</h4>
+                <p class="opisNaglowka">Tworzymy Państwa miejsce w sieci!</p>
                 <p>Specjalizujemy się w tworzeniu stron internetowych dla małych i średnich firm. Oferujemy kompleksową obsługę, od projektu graficznego, przez programowanie, po optymalizację i pozycjonowanie. Nasze strony są responsywne, czyli dostosowane do różnych urządzeń i rozdzielczości ekranu. Używamy nowoczesnych technologii i narzędzi, takich jak HTML5, CSS3, JavaScript, WordPress, Bootstrap i inne.</p>
                 <p>Naszym celem jest stworzenie strony internetowej, która będzie nie tylko ładna i funkcjonalna, ale także skuteczna w przyciąganiu i zatrzymywaniu klientów. Dlatego dbamy o to, aby nasze strony były:</p>
                 <ul>
@@ -42,7 +42,7 @@ get_header(); ?>
         <div class="row">
             <div class="col">
                 <h2>Dlaczego my?</h2>
-                <h4>Współpraca z nami to przede wszystkim:</h4>
+                <p class="opisNaglowka">Współpraca z nami to przede wszystkim:</p>
             </div>
         </div>
         <div class="row assets-row">

@@ -10,7 +10,7 @@ get_header(); ?>
     <div class="row">
       <div class="col page-header-col">
         <h2 class="page-header oferta-page-header">
-          <strong>Prosta strona internetowa</strong>
+          <strong>Proste strony internetowe</strong>
         </h2>
       </div>
     </div>
@@ -22,14 +22,14 @@ get_header(); ?>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <h1>Prosta i responsywna<br><strong>strona internetowa</strong><br>w atrakcyjnej cenie</h1>
+        <h1>Responsywne i SEO-zoptymalizowane<br><strong>strony internetowe</strong><br>w atrakcyjnej cenie</h1>
       </div>
     </div>
     <div class="row">
       <div class="col">
         <p>Czy marzysz o własnej stronie internetowej, ale nie wiesz, jak się za to zabrać? Czy chcesz pokazać światu swoją pasję, hobby lub biznes, ale boisz się skomplikowanych i drogich rozwiązań? Jeśli tak, to mamy dla Ciebie idealną ofertę: Prosta strona internetowa!</p>
         <p>Prosta strona internetowa to produkt, który umożliwia Ci stworzenie profesjonalnej i atrakcyjnej strony internetowej małym kosztem, bez żadnej wiedzy technicznej. Wystarczy, że wybierzesz jeden z wielu gotowych szablonów lub dostarczysz nam własną treść taką jak teksty, zdjęcia, filmy. My zajmiemy się wszystkim i sprawimy, że Twoja strona będzie wyjątkowa i funkcjonalna.</p>
-        <p>Prosta strona internetowa to nie tylko łatwość i szybkość tworzenia strony, ale także niska cena i pełna obsługa. Otrzymujesz nie tylko swoją stronę internetową, ale także własną domenę (np. www.twojanazwa.pl), hosting (miejsce na serwerze, gdzie przechowywana jest Twoja strona), certyfikat SSL (gwarantujący bezpieczeństwo i wiarygodność Twojej strony) oraz wsparcie techniczne 24/7. Co więcej, jeśli zamówisz teraz, to pierwszy miesiąc otrzymasz za darmo!</p>
+        <p>Prosta strona internetowa to nie tylko łatwość i szybkość tworzenia strony, ale także niska cena i pełna obsługa. Otrzymujesz nie tylko swoją stronę internetową, ale także własną domenę (np. www.twojanazwa.pl), hosting (miejsce na serwerze, gdzie przechowywana jest Twoja strona), certyfikat SSL (gwarantujący bezpieczeństwo i wiarygodność Twojej strony) oraz wsparcie techniczne. Co więcej, jeśli zamówisz teraz, to pierwszy miesiąc otrzymasz za darmo!</p>
         <p>Nie zwlekaj więc ani chwili i zamów już dziś swoją Prostą stronę internetową! To najlepsza inwestycja w Twój rozwój i sukces online. Prosta strona internetowa — Twój klucz do internetu! </p>
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
       </div>

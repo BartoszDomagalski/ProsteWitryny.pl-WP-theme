@@ -10,7 +10,7 @@ get_header(); ?>
     <div class="row">
       <div class="col page-header-col">
         <h2 class="page-header oferta-page-header">
-          <strong>Firmowa strona internetowa</strong>
+          <strong>Firmowe strony internetowe</strong>
         </h2>
       </div>
     </div>
@@ -22,12 +22,12 @@ get_header(); ?>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <h1>Prosta i responsywna<br><strong>firmowa strona internetowa</strong><br>w atrakcyjnej cenie</h1>
+        <h1>Responsywne i SEO-zoptymalizowane<br><strong>firmowe strony internetowe</strong><br>w atrakcyjnej cenie</h1>
       </div>
     </div>
     <div class="row">
       <div class="col">
-        <p>Jeśli szukasz prostego i responsywnego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne i łatwe w zarządzaniu. Możesz wybrać spośród wielu szablonów i kolorów, a także dodać własne logo, zdjęcia i treści. Nie musisz martwić się o hosting, domenę ani zabezpieczenie SSL — my zajmiemy się wszystkim. A co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
+        <p>Jeśli szukasz prostego, responsywnego i skutecznego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne, łatwe w zarządzaniu i SEO-zoptymalizowane — czyli zoptymalizowane pod wyszukiwarki internetowe takie jak Google czy Bing — aby Twoja strona wyświetlała się jak najwyżej w wynikach wyszukiwania, co z kolei przekłada się na wzrost liczby odwiedzających. Możesz wybrać spośród kilku szablonów, a także dodać własne logo, zdjęcia i treści. Jeżeli masz większe wymagania, możesz skorzystać z pozostałych naszych usług projektowania bardziej spersonalizowanych stron internetowych tworzonych na podstawie indywidualnych i niepowtarzalnych projektów graficznych. Nie musisz martwić się o hosting, domenę ani zabezpieczenia — my zajmiemy się wszystkim. A przy tym wszystkim, co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
       </div>
     </div>

@@ -110,6 +110,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col">
+
 						<div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
 							<?php
 							if(function_exists('bcn_display'))
