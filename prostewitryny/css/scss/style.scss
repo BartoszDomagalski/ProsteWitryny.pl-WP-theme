@@ -50,7 +50,7 @@ section#top-site-heading {
     background-position: 50% 14%;
     background-repeat: no-repeat;
     background-size: 80%;
-    padding-top: 50px;
+    padding-top: 0px;
 
     h1 {
         color: $second-color;
@@ -81,20 +81,16 @@ section#top-site-heading {
     .banner-col {
         background-color: rgba(52, 58, 64, 0.8);
         // background-color: rgba(51, 61, 81, 0.8);
-        padding: 30px 15px; 
-
-        @media (min-width: 576px) {
-            background-color: rgba(52, 58, 64, 0.8);
-            // background-color: rgba(51, 61, 81, 0.8);
-        }
+        padding: 30px 15px;
 
         @media (min-width: 992px) {
-            margin-top: 50px;
+            margin-top: 30px;
         }
 
         @media (min-width: 1200px) {
-            margin-top: 70px;
+            margin-top: 50px;
         }
+
         @media (min-width: 1900px) {
             margin-top: 215px;
         }
@@ -113,8 +109,6 @@ section#top-site-heading {
             font-size: 44px;
         }
     }
-
-
 
     @media (max-width: 767px) {
         // background-image: url(../img/rosnace-zarobki-firmy-mini.webp);
@@ -146,20 +140,26 @@ section#top-site-heading {
         }
     }
 
-    
+    @media (min-width: 992px) {
+        background-size: 60%;
+    }
+
     @media (min-width: 1440px) {
         background-position: 50% 35%;
         background-size: 52%;
         height: 630px;
     }
+
     @media (min-width: 1900px) {
         background-position: 50% 85%;
         background-size: 52%;
         height: 850px;
     }
+
     @media (min-width: 768px) {
         background-image: url(../img/glowna/rosnace-zarobki-firmy.webp);
     }
+
     @media (min-width: 576px) and (max-width: 767px) {
         background-image: url(../img/glowna/rosnace-zarobki-firmy-medium.webp);
     }
