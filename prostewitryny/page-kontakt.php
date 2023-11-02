@@ -40,7 +40,7 @@ get_header(); ?>
             <div class="col-10">
               <h2 class="contact-icon-title">Adres - Siedziba 1</h2>
               <h3 class="contact-icon-content">
-                  <a href="https://goo.gl/maps/mLpyn54mniLeHwPV7" target="_blank">Brogi 19, 31-431 Kraków</a>
+                  <a href="https://goo.gl/maps/mLpyn54mniLeHwPV7" target="_blank">Brogi 19/18, 31-431 Kraków</a>
               </h3>
             </div>
           </div>
@@ -94,10 +94,9 @@ get_header(); ?>
         </p>
 
         <p class="contact-info-firma">
-          <strong>ProsteWitryny.pl | Strony Internetowe</strong><br>
-          <strong>ProsteWitryny.pl</strong> jest częścią Family Party non-profit spółka z ograniczoną odpowiedzialnością z siedzibą w Słomnikach przy ulicy Krakowskiej 62d, 32-090 Słomniki, wpisana do rejestru przedsiębiorców przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie, XII Wydział Gospodarczy pod numerem KRS 0000746071, posiadająca REGON 38110158500000 oraz NIP 6821777738
+          <strong>ProsteWitryny.pl - Twoja Prosta Strona Internetowa Kraków</strong><br>
+          ProsteWitryny.pl jest częścią Family Party non-profit spółka z ograniczoną odpowiedzialnością z siedzibą w Słomnikach przy ulicy Krakowskiej 62d, 32-090 Słomniki, wpisana do rejestru przedsiębiorców przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie, XII Wydział Gospodarczy pod numerem KRS 0000746071, posiadająca REGON 38110158500000 oraz NIP 6821777738
         </p>
-
 
       </div>
     </div>

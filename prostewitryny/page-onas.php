@@ -35,15 +35,14 @@ get_header(); ?>
     <div class="row">
       <div class="col">
           
-          <p>Jesteśmy zespołem kilku entuzjastów tworzenia stron internetowych, którzy łączą swoją pasję z profesjonalizmem. Nasza firma powstała w 2022 roku z myślą o potrzebach małych i średnich firm, które chcą zaistnieć w sieci i zwiększyć swoją widoczność i sprzedaż.</p>
-          <p>Naszą misją jest dostarczanie indywidualnych, efektywnych i przystępnych rozwiązań webowych, które spełniają oczekiwania naszych klientów i ich użytkowników. Nie ograniczamy się do gotowych szablonów, ale tworzymy strony od podstaw, dopasowując je do branży, celu i charakteru firmy.</p>
+          <p><strong>Naszą misją jest dostarczanie indywidualnych, efektywnych i przystępnych rozwiązań webowych, które spełniają oczekiwania naszych klientów i ich użytkowników.</strong> Nie ograniczamy się do gotowych szablonów, ale tworzymy strony od podstaw, dopasowując je do branży, celu i charakteru firmy.</p>
+          <p>Na co dzień łączymy entuzjazm do tworzenia stron internetowych z pasją i profesjonalizmem. Nasza firma powstała w 2022 roku z myślą o potrzebach małych i średnich firm, które chcą zaistnieć w sieci i zwiększyć swoją widoczność i sprzedaż.</p>
           <p>Pracujemy z użyciem najnowszych technologii i narzędzi, takich jak HTML5, CSS3, JavaScript, WordPress, Bootstrap i inne, aby zapewnić wysoką jakość, funkcjonalność i bezpieczeństwo naszych stron. Dbamy również o optymalizację pod kątem wyszukiwarek (SEO), szybkość ładowania i responsywność na różnych urządzeniach.</p>
           <p>W naszej ofercie znajdziesz usługi takie jak:</p>
           <ul>
-            <li><i class="fa-solid fa-palette"></i> - projektowanie graficzne i logo</li>
             <li><i class="fa-solid fa-code"></i> - kodowanie i programowanie</li>
-            <li><i class="fa-solid fa-server"></i> - hosting i domena</li>
-            <li><i class="fa-solid fa-headset"></i> - aktualizacja i utrzymanie</li>
+            <li><i class="fa-solid fa-server"></i> - hosting i domena (doradztwo)</li>
+            <li><i class="fa-solid fa-headset"></i> - aktualizacje i utrzymanie</li>
             <li><i class="fa-solid fa-square-share-nodes"></i> - integracje</li>
             <li><i class="fa-solid fa-chart-pie"></i> - analityka i raporty</li>
           </ul>
