@@ -29,7 +29,7 @@ get_header(); ?>
                     <li><strong>atrakcyjne</strong> - zwracamy uwagę na estetykę i ergonomię, dobieramy odpowiednie kolory, czcionki, zdjęcia i elementy graficzne</li>
                     <li><strong>intuicyjne</strong> - zapewniamy łatwą nawigację i przejrzystą strukturę, umożliwiamy szybkie znalezienie informacji i kontaktu</li>
                     <li><strong>perswazyjne</strong> - podkreślamy zalety i korzyści z oferty, budujemy zaufanie i wiarygodność, zachęcamy do podjęcia akcji</li>
-                    <li><strong>zoptymalizowane</strong> - stosujemy zasady SEO (Search Engine Optimization), czyli optymalizacji pod kątem wyszukiwarek internetowych, takie jak Google czy Bing. Dzięki temu nasze strony mają lepszą widoczność i pozycję w wynikach wyszukiwania.</li>
+                    <li><strong>zoptymalizowane</strong> - stosujemy zasady SEO (Search Engine Optimization), czyli optymalizacji pod kątem wyszukiwarek internetowych, takich jak Google czy Bing. Dzięki temu nasze strony mają lepszą widoczność i pozycję w wynikach wyszukiwania.</li>
                 </ul>
                 <p>Nasza oferta jest elastyczna i dopasowana do indywidualnych potrzeb i budżetu każdego klienta. Możemy stworzyć stronę internetową od podstaw lub odświeżyć istniejącą. Możemy również zająć się utrzymaniem i aktualizacją strony, dodawaniem treści i funkcjonalności. Niezależnie od tego, jaką masz wizję swojej strony internetowej, my ją zrealizujemy!</p>
             </div>
@@ -103,7 +103,7 @@ get_header(); ?>
         <div class="row">
             <div class="col-12 col-lg-7 text-col">
                 <h2>Skontaktuj się!</h2>
-                <p>Jeśli jesteś zainteresowany naszą ofertą, skontaktuj się z nami już dziś! Wypełnij formularz kontaktowy na naszej stronie lub zadzwoń do nas pod numer telefonu. Przygotujemy dla Ciebie bezpłatną wycenę i przedstawimy propozycję współpracy.</p>
+                <p>Jeśli jesteś zainteresowany naszą ofertą, skontaktuj się z nami już dziś! Wypełnij formularz kontaktowy na naszej stronie, napisz email lub zadzwoń. Przygotujemy dla Ciebie bezpłatną wycenę i przedstawimy propozycję współpracy.</p>
                 <p>Nie czekaj dłużej! Zaufaj nam i daj nam stworzyć stronę internetową dla Twojej firmy! Z nami osiągniesz sukces w internecie!</p>
                 <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
             </div>
