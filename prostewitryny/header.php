@@ -37,7 +37,7 @@
 				<div class="row top-contact-row" id="top-contact-row-id">
 					<div class="col-1 social-col">
 						<a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka">
-							<i class="fa-brands fa-facebook-f fb-top"></i>
+							<i class="fa-brands fa-facebook-f top-social-icon fb-top"></i>
 						</a>
 					</div>
 					<div class="col-1 social-col">
@@ -69,17 +69,11 @@
 				<div class="col scrolled-menu-col">
 					<a class="navbar-brand" href="<?php echo site_url('/'); ?>">
 						<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo/ProsteWitrynyLogo2Mini.webp" alt="Logo" width="75" height="30" class="d-inline-block align-text-top logo-square" id="logo-square">
-						<!-- <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo/ProsteWitrynyLogo2.webp" alt="Logo" width="75" height="30" class="d-inline-block align-text-top logo-square" id="logo-square"> -->
-						<!-- <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo/ProsteWitrynyLogoMini.webp" alt="Logo ProsteWitryny.pl" width="222" height="30" class="d-inline-block align-text-top logo-line" id="logo-line"> -->
 					</a>
 
 					<a href="tel:+48602726478" class="scrolled-phone" id="scrolled-phone">
 						<i class="fa-solid fa-phone"></i>
 					</a>
-
-					<!-- <a href="mailto:biuro@prostewitryny.pl" class="scrolled-mail" id="scrolled-mail">
-						<i class="fa-solid fa-envelope"></i>
-					</a> -->
 				
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#primary-menu" aria-controls="primary-menu" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
