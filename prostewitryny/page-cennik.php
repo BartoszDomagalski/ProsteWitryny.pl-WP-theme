@@ -23,7 +23,7 @@ get_header(); ?>
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
   <!-- <h2 class="display-4">Cennik</h2> -->
   <h2>Firmowe strony internetowe</h2>
-  <p class="lead">Jeśli szukasz prostego i responsywnego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne i łatwe w zarządzaniu. Możesz wybrać spośród wielu szablonów i kolorów, a także dodać własne logo, zdjęcia i treści. Nie musisz martwić się o hosting, domenę ani zabezpieczenie SSL — my zajmiemy się wszystkim. A co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
+  <p class="lead">Jeśli szukasz prostego i responsywnego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne i łatwe w zarządzaniu. Możesz wybrać spośród gotowych szablonów i kolorów, a także dodać własne logo, zdjęcia i treści. Nie musisz martwić się o hosting, domenę ani zabezpieczenie SSL — my zajmiemy się wszystkim. A co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
   <a href="<?php echo site_url('/oferta/firmowa-strona-internetowa'); ?>
 " class="strona-button oferta-button">Więcej...</a>
 </div>
@@ -37,13 +37,9 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 119zł/rok - hosting i domena (1 rok Gratis)</li>
-          <!-- <li>- kilka szablonów do wyboru</li> -->
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 3 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -56,15 +52,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">1999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 249zł/rok - hosting i domena (1 rok Gratis)</li>
           <li>- proste projekty indywidualne</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnej redakcji</li>
+          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 10 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 10 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
@@ -78,14 +70,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">3499 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 499zł/rok - hosting i domena</li>
-          <li>- zaawansowane projekty indywidualne z poprawkami</li>
+          <li>- złożone, indywidualne projekty graficzne z możliwością wprowadzania poprawek</li>
           <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 15 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- Nieskończenie x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 1 rok</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
+          <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -114,13 +103,9 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 119zł/rok - hosting i domena (1 rok Gratis)</li>
-          <!-- <li>- kilka szablonów do wyboru</li> -->
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 3 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -133,15 +118,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">1999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 249zł/rok - hosting i domena (1 rok Gratis)</li>
           <li>- proste projekty indywidualne</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnej redakcji</li>
+          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 10 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 10 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
@@ -155,14 +136,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">3499 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 499zł/rok - hosting i domena</li>
-          <li>- zaawansowane projekty indywidualne wraz z konsultacjami</li>
+          <li>- złożone, indywidualne projekty graficzne z możliwością wprowadzania poprawek</li>
           <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 15 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- Nieskończenie x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 1 rok</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
+          <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -177,7 +155,7 @@ get_header(); ?>
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
   <!-- <h2 class="display-4">Cennik</h2> -->
   <h2>Wizytówki internetowe</h2>
-  <p class="lead">Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród wielu gotowych szablonów i kolorów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Tworzenie wizytówki internetowej — to proste i tanie rozwiązanie dla ciebie.</p>
+  <p class="lead">Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród gotowych szablonów i kolorów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Tworzenie wizytówki internetowej — to proste i tanie rozwiązanie dla ciebie.</p>
   <a href="<?php echo site_url('/oferta/wizytowka-internetowa'); ?>
 " class="strona-button oferta-button">Więcej...</a>
 </div>
@@ -191,12 +169,8 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">399 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 19zł/rok - hosting i domena</li>
           <li>- kilka szablonów do wyboru</li>
-          <!-- <li>- treści generowane sztuczną inteligencją i darmowe</li> -->
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <li>- 1 x Email</li>
           <li>- Wsparcie rozruchowe</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
@@ -210,13 +184,10 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 49zł/rok - hosting i domena</li>
           <li>- indywidualne projekty personalizowane</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
-          <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
+          <li>- baza treści generowane sztuczną inteligencją i darmowa</li>
+          <li>- treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- treści poddawane profesjonalnej redakcji</li>
-          <li>- Kilka x Email</li>
           <li>- Wsparcie rozruchowe</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>

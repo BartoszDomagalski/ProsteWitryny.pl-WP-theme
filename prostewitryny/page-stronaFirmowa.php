@@ -27,7 +27,7 @@ get_header(); ?>
     </div>
     <div class="row">
       <div class="col">
-        <p>Jeśli szukasz prostego, responsywnego i skutecznego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne, łatwe w zarządzaniu i SEO-zoptymalizowane — czyli zoptymalizowane pod wyszukiwarki internetowe takie jak Google czy Bing — aby Twoja strona wyświetlała się jak najwyżej w wynikach wyszukiwania, co z kolei przekłada się na wzrost liczby odwiedzających. Możesz wybrać spośród kilku szablonów, a także dodać własne logo, zdjęcia i treści. Jeżeli masz większe wymagania, możesz skorzystać z pozostałych naszych usług projektowania bardziej spersonalizowanych stron internetowych tworzonych na podstawie indywidualnych i niepowtarzalnych projektów graficznych. Nie musisz martwić się o hosting, domenę ani zabezpieczenia — my zajmiemy się wszystkim. A przy tym wszystkim, co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
+        <p>Jeśli szukasz prostego, responsywnego i skutecznego internetowego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Tworzymy profesjonalne firmowe strony internetowe, które dostosowują się do każdego urządzenia i rozdzielczości. Nasze strony www są szybkie, bezpieczne, łatwe w zarządzaniu i SEO-zoptymalizowane — czyli zoptymalizowane pod wyszukiwarki internetowe takie jak Google czy Bing — aby Twoja firmowa strona internetowa wyświetlała się jak najwyżej w wynikach wyszukiwania, co z kolei przekłada się na wzrost liczby odwiedzających, potencjalnych klientów. Możesz wybrać spośród kilku szablonów, dodać własne logo, wybrane przez siebie zdjęcia i przygotowane treści. Jeżeli masz większe wymagania, dokładnie sprecyzowaną wizję tego jak ma wyglądać i działać Twoja przyszła strona www, możesz zapoznać się z naszymi pakietami usług dostosowanych do potrzeb Klienta i wybrać ofertę projektowania i tworzenia bardziej spersonalizowanych stron internetowych tworzonych na podstawie indywidualnych i niepowtarzalnych projektów graficznych przygotowanych we własnym zakresie lub z naszym grafikiem. Nie musisz martwić się o hosting, domenę ani zabezpieczenia — doradzimy Ci i zajmiemy się wszystkim. A przy tym wszystkim, co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
@@ -39,19 +39,19 @@ get_header(); ?>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-          <h2>Oficjalna firmowa strona internetowa</h2>
-          <h4>Zalety związane z posiadaniem firmowej strony internetowej i swojego miejsca w sieci!</h4>
+          <h2>Firmowa strona internetowa - podstawowe korzyści</h2>
+          <h4>Zalety związane z posiadaniem firmowej strony www i swojego miejsca w sieci!</h4>
       </div>
     </div>
     <div class="row">
       <div class="col">
-        <p>W dzisiejszych czasach posiadanie oficjalnej firmowej strony internetowej jest nie tylko kwestią prestiżu, ale także koniecznością. Strona internetowa to wizytówka firmy w sieci, która pozwala na dotarcie do potencjalnych klientów, partnerów i pracowników. Oto kilka zalet posiadania oficjalnej firmowej strony internetowej:</p>
+        <p>W dzisiejszych czasach posiadanie oficjalnej firmowej strony internetowej jest nie tylko kwestią prestiżu, ale także koniecznością. Strona www to wizytówka firmy w sieci, która pozwala na dotarcie do potencjalnych klientów, partnerów i pracowników. Oto kilka zalet posiadania firmowej strony internetowej:</p>
         <ul>
-          <li><strong>Zwiększenie widoczności i zasięgu.</strong> Strona internetowa sprawia, że firma jest łatwiej znaleziona przez osoby szukające produktów lub usług związanych z jej branżą. Dzięki temu firma może zwiększyć swoją sprzedaż, poprawić reputację i zdobyć przewagę nad konkurencją.</li>
-          <li><strong>Budowanie zaufania i wiarygodności.</strong> Strona internetowa to sposób na pokazanie profesjonalizmu i jakości firmy. Na stronie można zamieścić informacje o historii, misji, wizji i wartościach firmy, a także o jej zespole, certyfikatach i nagrodach. Można również udostępnić opinie i referencje zadowolonych klientów, co buduje zaufanie i lojalność.</li>
-          <li><strong>Komunikacja i interakcja.</strong> Strona internetowa to kanał komunikacji z klientami i innymi zainteresowanymi stronami. Na stronie można umieścić dane kontaktowe, formularz kontaktowy, mapę dojazdu, a także linki do mediów społecznościowych. Można również prowadzić blog, newsletter lub chat, aby informować o nowościach, promocjach i poradach.</li>
-          <li><strong>Prezentacja oferty i portfolio.</strong> Strona internetowa to miejsce na pokazanie produktów lub usług oferowanych przez firmę. Na stronie można umieścić opisy, zdjęcia, filmy, cenniki, warunki współpracy i inne informacje przydatne dla klientów. Można również zaprezentować portfolio zrealizowanych projektów lub case studies, aby pokazać efekty i korzyści współpracy z firmą.</li>
-          <li><strong>Oszczędność czasu i pieniędzy.</strong> Strona internetowa to inwestycja, która się zwraca. Dzięki stronie firma może zaoszczędzić czas i pieniądze na tradycyjne formy reklamy, takie jak ulotki, plakaty czy ogłoszenia prasowe. Strona internetowa jest dostępna 24 godziny na dobę, 7 dni w tygodniu, co oznacza, że firma może dotrzeć do większej liczby klientów w krótszym czasie.</li>
+          <li><strong>Zwiększenie widoczności i zasięgu.</strong> Firmowa strona internetowa sprawia, że firma jest łatwiej znaleziona przez osoby szukające produktów lub usług związanych z jej branżą. Dzięki temu firma może zwiększyć swoją sprzedaż, poprawić reputację i zdobyć przewagę nad konkurencją.</li>
+          <li><strong>Budowanie zaufania i wiarygodności.</strong> Firmowa strona internetowa to sposób na pokazanie profesjonalizmu i jakości firmy. Na stronie można zamieścić informacje o historii, misji, wizji i wartościach firmy, a także o jej zespole, certyfikatach i nagrodach. Można również udostępnić opinie i referencje zadowolonych klientów, co buduje zaufanie i lojalność.</li>
+          <li><strong>Komunikacja i interakcja.</strong> Firmowa strona internetowa to kanał komunikacji z klientami i innymi zainteresowanymi stronami. Na stronie www można umieścić dane kontaktowe, formularz kontaktowy, mapę dojazdu, a także linki do mediów społecznościowych. Można również prowadzić blog, newsletter lub chat, aby informować o nowościach, promocjach i poradach.</li>
+          <li><strong>Prezentacja oferty i portfolio.</strong> Firmowa strona internetowa to miejsce na zaprezentowanie produktów lub usług oferowanych przez firmę. Na stronie www można umieścić opisy, zdjęcia, filmy, cenniki, warunki współpracy i inne informacje przydatne dla klientów. Można również zaprezentować portfolio zrealizowanych projektów lub case studies, aby pokazać efekty i korzyści współpracy z firmą.</li>
+          <li><strong>Oszczędność czasu i pieniędzy.</strong> Firmowa strona internetowa to inwestycja, która się zwraca. Dzięki stronie www firma może zaoszczędzić czas i pieniądze na tradycyjne formy reklamy, takie jak ulotki, plakaty czy ogłoszenia prasowe. Strona internetowa jest dostępna 24 godziny na dobę, 7 dni w tygodniu, co oznacza, że firma może dotrzeć do większej liczby klientów w krótszym czasie.</li>
         </ul>
         <p>Jak widać, posiadanie oficjalnej firmowej strony internetowej ma wiele zalet i korzyści dla każdej firmy. Jeśli chcesz stworzyć swoją stronę internetową w prosty i tani sposób, skorzystaj z naszej oferty: Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie. Skontaktuj się z nami już dziś i zacznij rozwijać swój biznes w sieci.</p>
       </div>
@@ -103,7 +103,7 @@ get_header(); ?>
   <!-- <h2 class="display-4">Cennik</h2> -->
   <h2>Cennik</h2>
   <!-- <p class="lead">Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</p> -->
-  <h4>Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</h4>
+  <h4>Zapoznaj się z naszą ofertą usług dostosowanych do Twoich potrzeb.</h4>
 </div>
 
 <div class="container-fluid">
@@ -115,13 +115,9 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 119zł/rok - hosting i domena (1 rok Gratis)</li>
-          <!-- <li>- kilka szablonów do wyboru</li> -->
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 3 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -134,15 +130,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">1999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 249zł/rok - hosting i domena (1 rok Gratis)</li>
           <li>- proste projekty indywidualne</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnej redakcji</li>
+          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 10 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 10 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
@@ -156,14 +148,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">3499 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 499zł/rok - hosting i domena</li>
-          <li>- zaawansowane projekty indywidualne z poprawkami</li>
+          <li>- złożone, indywidualne projekty graficzne z możliwością wprowadzania poprawek</li>
           <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 15 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- Nieskończenie x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 1 rok</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
+          <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -179,12 +168,11 @@ get_header(); ?>
 <div class="row">
     <div class="col">
         <h2>Dodatkowe usługi</h2>
-        <h4>Zapoznaj się z tym co otrzymujesz decydując się na którykolwiek z naszych pakietów!</h4>
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <p>Wszystkie nasze produkty/usługi w podstawowym pakiecie zawierają również:</p>
+      <p>Wszystkie nasze usługi w standardowym pakiecie zawierają również:</p>
       <ul>
         <li><i class="fa-solid fa-server"></i>- hosting w cenie na 1 rok,</li>
         <li><i class="fa-solid fa-globe"></i>- domenę w cenie na 1 rok,</li>

@@ -27,7 +27,7 @@ get_header(); ?>
     </div>
     <div class="row">
       <div class="col">
-        <p>Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród wielu gotowych szablonów i kolorów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Tworzenie wizytówki internetowej — to proste i tanie rozwiązanie dla ciebie.</p>
+        <p>Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród gotowych szablonów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Twoja wizytówka internetowa — to proste i tanie rozwiązanie dla ciebie.</p>
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
@@ -100,7 +100,7 @@ get_header(); ?>
   <!-- <h2 class="display-4">Cennik</h2> -->
   <h2>Cennik</h2>
   <!-- <p class="lead">Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</p> -->
-  <h4>Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</h4>
+  <h4>Zapoznaj się z naszą ofertą usług dostosowanych do Twoich potrzeb.</h4>
 </div>
 
 <div class="container-fluid">
@@ -112,12 +112,8 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">399 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 19zł/rok - hosting i domena</li>
           <li>- kilka szablonów do wyboru</li>
-          <!-- <li>- treści generowane sztuczną inteligencją i darmowe</li> -->
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <li>- 1 x Email</li>
           <li>- Wsparcie rozruchowe</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
@@ -131,13 +127,10 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 49zł/rok - hosting i domena</li>
           <li>- indywidualne projekty personalizowane</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowane sztuczną inteligencją i darmowa</li>
+          <li>- treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- treści poddawane profesjonalnej redakcji</li>
-          <li>- 3 x Email</li>
           <li>- Wsparcie rozruchowe</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>

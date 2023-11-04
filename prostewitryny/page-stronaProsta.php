@@ -27,10 +27,10 @@ get_header(); ?>
     </div>
     <div class="row">
       <div class="col">
-        <p>Czy marzysz o własnej stronie internetowej, ale nie wiesz, jak się za to zabrać? Czy chcesz pokazać światu swoją pasję, hobby lub biznes, ale boisz się skomplikowanych i drogich rozwiązań? Jeśli tak, to mamy dla Ciebie idealną ofertę: Prosta strona internetowa!</p>
-        <p>Prosta strona internetowa to produkt, który umożliwia Ci stworzenie profesjonalnej i atrakcyjnej strony internetowej małym kosztem, bez żadnej wiedzy technicznej. Wystarczy, że wybierzesz jeden z wielu gotowych szablonów lub dostarczysz nam własną treść taką jak teksty, zdjęcia, filmy. My zajmiemy się wszystkim i sprawimy, że Twoja strona będzie wyjątkowa i funkcjonalna.</p>
+        <p>Czy marzysz o własnej stronie internetowej, ale nie wiesz, jak się za to zabrać? Czy chcesz pokazać światu swoją pasję, hobby lub biznes, ale boisz się skomplikowanych i drogich rozwiązań? Jeśli tak, to mamy dla Ciebie idealną ofertę: Prosta strona internetowa w przystępnej cenie!</p>
+        <p>Prosta strona internetowa to produkt, który umożliwia Ci stworzenie profesjonalnej i atrakcyjnej strony internetowej małym kosztem, bez żadnej wiedzy technicznej. Wystarczy, że wybierzesz jeden z naszych szablonów lub dostarczysz nam własną treść taką jak teksty, zdjęcia, filmy. My zajmiemy się wszystkim i sprawimy, że Twoja strona będzie wyjątkowa i funkcjonalna.</p>
         <p>Prosta strona internetowa to nie tylko łatwość i szybkość tworzenia strony, ale także niska cena i pełna obsługa. Otrzymujesz nie tylko swoją stronę internetową, ale także własną domenę (np. www.twojanazwa.pl), hosting (miejsce na serwerze, gdzie przechowywana jest Twoja strona), certyfikat SSL (gwarantujący bezpieczeństwo i wiarygodność Twojej strony) oraz wsparcie techniczne.</p>
-        <p>Nie zwlekaj więc ani chwili i zamów już dziś swoją prostą stronę internetową! To najlepsza inwestycja w Twój rozwój i sukces online. Prosta strona internetowa — Twój klucz do internetu! </p>
+        <p>Nie zwlekaj więc ani chwili i zamów już dziś swoją prostą stronę internetową! To najlepsza inwestycja w Twój rozwój i sukces online. Twoja prosta strona internetowa — Twój klucz do internetu! </p>
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
@@ -42,8 +42,8 @@ get_header(); ?>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-          <h2>Oficjalna Prosta strona internetowa</h2>
-          <h4>Zalety związane z posiadaniem oficjalnej strony internetowej i swojego miejsca w sieci!</h4>
+          <h2>Prosta strona internetowa - podstawowe korzyści</h2>
+          <h4>Zalety związane z posiadaniem strony internetowej i swojego miejsca w sieci!</h4>
       </div>
     </div>
     <div class="row">
@@ -52,7 +52,7 @@ get_header(); ?>
         <ul>
           <li><strong>Zwiększasz swoją widoczność i zasięg.</strong> Dzięki Prostej stronie internetowej możesz dotrzeć do większej liczby potencjalnych klientów, partnerów lub odbiorców. Twoja strona będzie dostępna dla każdego, kto ma dostęp do internetu, niezależnie od miejsca i czasu. Możesz też łatwo promować swoją stronę w mediach społecznościowych, wyszukiwarkach czy innych kanałach komunikacji.</li>
           <li><strong>Budujesz swój wizerunek i wiarygodność.</strong> Prosta strona internetowa pozwala Ci zaprezentować się w profesjonalny i atrakcyjny sposób. Możesz pokazać swoje umiejętności, doświadczenie, portfolio, referencje, certyfikaty lub nagrody. Możesz też udowodnić swoją ekspertyzę, dzieląc się swoją wiedzą, opiniami lub poradami na blogu, lub innych podstronach. Twoja strona będzie świadczyć o Twojej jakości i zaangażowaniu.</li>
-          <li><strong>Oszczędzasz czas i pieniądze.</strong> Prosta strona internetowa to produkt, który nie wymaga od Ciebie żadnego nakładu pracy. Nie musisz też martwić się o domenę, hosting czy certyfikat SSL — wszystko jest wliczone w niską cenę. Nie musisz też poświęcać czasu na szkolenia czy kursy — edycja strony jest proste i intuicyjne i wszystkiego Cię nauczymy.</li>
+          <li><strong>Oszczędzasz czas i pieniądze.</strong> Prosta strona internetowa to produkt, który nie wymaga od Ciebie żadnego nakładu pracy. Nie musisz też martwić się o domenę, hosting czy certyfikat SSL — we wszystkim Ci doradzimy i pomożemy. Nie musisz też poświęcać czasu na szkolenia czy kursy — edycja strony jest proste i intuicyjne i wszystkiego Cię nauczymy.</li>
         </ul>
         <p>Jak widzisz, Prosta strona internetowa to produkt, który ma same plusy. Nie zwlekaj więc ani chwili i zamów już dziś swoją Prostą stronę internetową! To najlepsza inwestycja w Twój rozwój i sukces online. Prosta strona internetowa — Twój klucz do internetu! </p>
       </div>
@@ -104,7 +104,7 @@ get_header(); ?>
   <!-- <h2 class="display-4">Cennik</h2> -->
   <h2>Cennik</h2>
   <!-- <p class="lead">Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</p> -->
-  <h4>Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</h4>
+  <h4>Zapoznaj się z naszą ofertą usług dostosowanych do Twoich potrzeb.</h4>
 </div>
 
 <div class="container-fluid">
@@ -116,13 +116,9 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 119zł/rok - hosting i domena (1 rok Gratis)</li>
-          <!-- <li>- kilka szablonów do wyboru</li> -->
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 3 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
@@ -135,15 +131,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">1999 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 249zł/rok - hosting i domena (1 rok Gratis)</li>
           <li>- proste projekty indywidualne</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnej redakcji</li>
+          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 10 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 10 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
@@ -157,14 +149,11 @@ get_header(); ?>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">3499 zł</h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 499zł/rok - hosting i domena</li>
-          <li>- zaawansowane projekty indywidualne z poprawkami</li>
+          <li>- złożone, indywidualne projekty graficzne z możliwością wprowadzania poprawek</li>
           <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 15 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- Nieskończenie x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 1 rok</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
+          <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
         <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
