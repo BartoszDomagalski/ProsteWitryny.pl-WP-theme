@@ -1003,7 +1003,7 @@ section#about-us {
         margin: auto;
 
         img {
-            max-height: 424px;
+            // max-height: 424px;
             margin: auto;
         }
     }
@@ -1072,6 +1072,18 @@ section#fp-contact {
     .text-col {
         text-align: right;
 
+        h2 {
+            margin-bottom: 50px;
+        }
+
+        p:first-of-type {
+            margin-bottom: 40px;
+        }
+
+        p:last-of-type {
+            margin-bottom: 50px;
+        }
+
         @media (max-width: 991px) {
             text-align: left;
         }
@@ -1082,7 +1094,7 @@ section#fp-contact {
         text-align: center;
 
         img {
-            max-height: 308px;
+            // max-height: 308px;
             margin: 0 auto;
         }
     }
