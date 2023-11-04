@@ -67,6 +67,7 @@
                         <h3 class="footer-col-title">Kontakt</h3>
                         <p class="wizGoo">ProsteWitryny.pl - Twoja Prosta Strona Internetowa Kraków</p>
                         <p><a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Brogi 19/18, Kraków</a></p>
+                        <p class="wizGoo">ProsteWitryny.pl - Strony Internetowe WWW Słomniki</p>
                         <p><a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Krakowska 62d, Słomniki</a></p>
                         <p><a href="mailto:biuro@prostewitryny.pl"><i class="fa-solid fa-envelope"></i> biuro@prostewitryny.pl</a></p>
                         <p><a href="tel:+48602726478"><i class="fa-solid fa-phone"></i> 602 726 478</a></p>
