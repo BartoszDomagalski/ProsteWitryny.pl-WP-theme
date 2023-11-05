@@ -363,6 +363,18 @@ p {
     a {
         color: $second-color;
 
+        i {
+            transition: .2s;
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+
+        &:hover i {
+            transform: scale(1.8) rotate(-8deg) translate(-20%, -20%);
+        }
+
         @media (max-width: 506px) {
             font-size: 11px;
         }
@@ -587,11 +599,17 @@ p {
 
 .scrolled-phone {
     display: none;
+    transition: .2s;
+
+    &:hover i {
+        transform: scale(1.4) rotate(-8deg) translate(-20%, 20%);
+    }
 
     i {
         color: $second-color;
         font-size: 34px;
         padding-top: 6px;
+        transition: .2s;
     }
 }
 
@@ -1086,6 +1104,11 @@ section#fp-contact {
 
         @media (max-width: 991px) {
             text-align: left;
+        }
+
+        @media (min-width: 1284px) {
+            margin-top: 50px;
+            margin-bottom: 50px;
         }
     }
 
@@ -1776,26 +1799,8 @@ article.post.type-post {
         font-size: 22px;
     }
 
-    .entry-content {
-
-
-        a {
-            font-size: 16px;
-        }
-    }
-
-    
-
-    .entry-date {
-        color: $second-color;
-    }
-
-    .author {
-
-
-        a {
-            color: $second-color;
-        }
+    p {
+        text-align: justify;
     }
 
     ul {
@@ -1813,6 +1818,43 @@ article.post.type-post {
 
         li {
             font-size: 20px;
+        }
+    }
+
+    .wp-block-heading {
+        color: $second-color;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+        font-weight: 700;
+    }
+
+    .post-thumbnail {
+        text-align: center;
+
+        img {
+            padding-top: 50px;
+            padding-bottom: 30px;
+        }
+    }
+
+    .entry-content {
+
+
+        a {
+            font-size: 16px;
+        }
+    }
+
+    .entry-date {
+        color: $second-color;
+    }
+
+    .author {
+
+
+        a {
+            color: $second-color;
         }
     }
 }
