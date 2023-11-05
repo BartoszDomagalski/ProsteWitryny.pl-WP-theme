@@ -8,9 +8,18 @@
  */
 
 ?>
+<div class="container">
+	<div class="row">
+		<div class="col main-post-col">
+
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
+		
+		<?php
+		prostastrona_post_thumbnail();
+		?>
+		<br>
 		<?php
 		if ( is_singular() ) :
 			the_title( '<h1 class="entry-title">', '</h1>' );
@@ -24,15 +33,17 @@
 				<?php
 				prostastrona_posted_on();
 				?>
-				<br>
+				<!-- <br> -->
 				<?php
-				prostastrona_posted_by();
+				// prostastrona_posted_by();
 				?>
 			</div><!-- .entry-meta -->
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 
-	<?php prostastrona_post_thumbnail(); ?>
+	<?php
+	// prostastrona_post_thumbnail();
+	?>
 
 	<div class="entry-content">
 		<?php
@@ -64,3 +75,7 @@
 		<?php prostastrona_entry_footer(); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->
+
+		</div>
+	</div>
+</div>
