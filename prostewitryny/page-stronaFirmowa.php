@@ -28,7 +28,7 @@ get_header(); ?>
     <div class="row">
       <div class="col">
         <p>Jeśli szukasz prostego, responsywnego i skutecznego internetowego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Tworzymy profesjonalne firmowe strony internetowe, które dostosowują się do każdego urządzenia i rozdzielczości. Nasze strony www są szybkie, bezpieczne, łatwe w zarządzaniu i SEO-zoptymalizowane — czyli zoptymalizowane pod wyszukiwarki internetowe takie jak Google czy Bing — aby Twoja firmowa strona internetowa wyświetlała się jak najwyżej w wynikach wyszukiwania, co z kolei przekłada się na wzrost liczby odwiedzających, potencjalnych klientów. Możesz wybrać spośród kilku szablonów, dodać własne logo, wybrane przez siebie zdjęcia i przygotowane treści. Jeżeli masz większe wymagania, dokładnie sprecyzowaną wizję tego jak ma wyglądać i działać Twoja przyszła strona www, możesz zapoznać się z naszymi pakietami usług dostosowanych do potrzeb Klienta i wybrać ofertę projektowania i tworzenia bardziej spersonalizowanych stron internetowych tworzonych na podstawie indywidualnych i niepowtarzalnych projektów graficznych przygotowanych we własnym zakresie lub z naszym grafikiem. Nie musisz martwić się o hosting, domenę ani zabezpieczenia — doradzimy Ci i zajmiemy się wszystkim. A przy tym wszystkim, co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -138,7 +138,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -155,7 +155,7 @@ get_header(); ?>
           <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@ get_header(); ?>
     <div class="row">
       <div class="col">
         <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-        <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@ get_header(); ?>
                 <h2>Skontaktuj się!</h2>
                 <h4>Nie zwlekaj i skorzystaj z naszej oferty już dziś!</h4>
                 <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-                <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
+                <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
             </div>
             <div class="col-12 col-lg-5 d-none d-lg-flex image-col">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/kontakt-smartfon-koperta.webp" alt="Telefon i koperta">

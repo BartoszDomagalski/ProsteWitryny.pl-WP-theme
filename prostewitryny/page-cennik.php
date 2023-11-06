@@ -42,7 +42,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -60,7 +60,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -77,7 +77,7 @@ get_header(); ?>
           <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -108,7 +108,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -126,7 +126,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -143,7 +143,7 @@ get_header(); ?>
           <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -174,7 +174,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -192,7 +192,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -274,7 +274,7 @@ get_header(); ?>
                 <h2>Skontaktuj się!</h2>
                 <h4>Nie zwlekaj i skorzystaj z naszej oferty już dziś!</h4>
                 <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-                <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
+                <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
             </div>
             <div class="col-12 col-lg-5 d-none d-lg-flex image-col">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/kontakt-smartfon-koperta.webp" alt="Telefon i koperta">

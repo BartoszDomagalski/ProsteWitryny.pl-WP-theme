@@ -105,7 +105,7 @@ get_header(); ?>
                 <h2>Skontaktuj się!</h2>
                 <p>Jeśli jesteś zainteresowany naszą ofertą, skontaktuj się z nami już dziś! Wypełnij formularz kontaktowy na naszej stronie, napisz email lub zadzwoń. Przygotujemy dla Ciebie bezpłatną wycenę i przedstawimy propozycję współpracy.</p>
                 <p>Nie czekaj dłużej! Zaufaj nam i daj nam stworzyć stronę internetową dla Twojej firmy! Z nami osiągniesz sukces w internecie!</p>
-                <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+                <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
             </div>
             <div class="col-12 col-lg-5 d-none d-lg-flex image-col">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/kontakt-smartfon-koperta.webp" alt="Telefon i koperta">

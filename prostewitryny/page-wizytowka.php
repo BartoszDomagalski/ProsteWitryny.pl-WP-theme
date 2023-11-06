@@ -28,7 +28,7 @@ get_header(); ?>
     <div class="row">
       <div class="col">
         <p>Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród gotowych szablonów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Twoja wizytówka internetowa — to proste i tanie rozwiązanie dla ciebie.</p>
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -135,7 +135,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -186,7 +186,7 @@ get_header(); ?>
   <div class="row">
     <div class="col">
       <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-      <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
+      <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
     </div>
   </div>
 </div>
@@ -200,7 +200,7 @@ get_header(); ?>
                 <h2>Skontaktuj się!</h2>
                 <h4>Nie zwlekaj i skorzystaj z naszej oferty już dziś!</h4>
                 <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-                <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
+                <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
             </div>
             <div class="col-12 col-lg-5 d-none d-lg-flex image-col">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/kontakt-smartfon-koperta.webp" alt="Telefon i koperta">

@@ -67,7 +67,7 @@ get_header(); ?>
             <div class="col-10">
               <h2 class="contact-icon-title">Telefon</h2>
               <h3 class="contact-icon-content">
-                <a href="tel:+48602726478">+48 602 726 478</a>
+                <a href="tel:+48453310100">+48 453 310 100</a>
               </h3>
             </div>
           </div>

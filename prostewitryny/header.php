@@ -46,9 +46,9 @@
 						</a>
 					</div>
 					<div class="col-auto">
-						<a href="tel:+48602726478">
+						<a href="tel:+48453310100">
 							<i class="fa-solid fa-phone"></i>
-							602 726 478
+							453 310 100
 						</a>
 					</div>
 					<div class="col-auto">
@@ -71,7 +71,7 @@
 						<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo/ProsteWitrynyLogo2Mini.webp" alt="Logo" width="75" height="30" class="d-inline-block align-text-top logo-square" id="logo-square">
 					</a>
 
-					<a href="tel:+48602726478" class="scrolled-phone" id="scrolled-phone">
+					<a href="tel:+48453310100" class="scrolled-phone" id="scrolled-phone">
 						<i class="fa-solid fa-phone"></i>
 					</a>
 				

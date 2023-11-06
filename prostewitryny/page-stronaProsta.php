@@ -31,7 +31,7 @@ get_header(); ?>
         <p>Prosta strona internetowa to produkt, który umożliwia Ci stworzenie profesjonalnej i atrakcyjnej strony internetowej małym kosztem, bez żadnej wiedzy technicznej. Wystarczy, że wybierzesz jeden z naszych szablonów lub dostarczysz nam własną treść taką jak teksty, zdjęcia, filmy. My zajmiemy się wszystkim i sprawimy, że Twoja strona będzie wyjątkowa i funkcjonalna.</p>
         <p>Prosta strona internetowa to nie tylko łatwość i szybkość tworzenia strony, ale także niska cena i pełna obsługa. Otrzymujesz nie tylko swoją stronę internetową, ale także własną domenę (np. www.twojanazwa.pl), hosting (miejsce na serwerze, gdzie przechowywana jest Twoja strona), certyfikat SSL (gwarantujący bezpieczeństwo i wiarygodność Twojej strony) oraz wsparcie techniczne.</p>
         <p>Nie zwlekaj więc ani chwili i zamów już dziś swoją prostą stronę internetową! To najlepsza inwestycja w Twój rozwój i sukces online. Twoja prosta strona internetowa — Twój klucz do internetu! </p>
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@ get_header(); ?>
           <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -139,7 +139,7 @@ get_header(); ?>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -156,7 +156,7 @@ get_header(); ?>
           <li>- Wsparcie przez 9 miesięcy</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48602726478" class="strona-button">Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@ get_header(); ?>
     <div class="row">
       <div class="col">
         <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-        <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
+        <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i>Zadzwoń!</a>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@ get_header(); ?>
                 <h2>Skontaktuj się!</h2>
                 <h4>Nie zwlekaj i skorzystaj z naszej oferty już dziś!</h4>
                 <p>Skontaktuj się z nami i umów się na bezpłatną konsultację. Pomożemy Ci wybrać najlepsze rozwiązanie dla Twojej firmy i zaproponujemy atrakcyjną cenę. Nie pozwól, aby konkurencja wyprzedziła Cię w internecie! Zaufaj nam i zobacz, jak Twoja firma rośnie dzięki profesjonalnej stronie internetowej!</p>
-                <a href="tel:+48602726478" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
+                <a href="tel:+48453310100" class="strona-button"><i class="fa-solid fa-phone"></i> Zadzwoń!</a>
             </div>
             <div class="col-12 col-lg-5 d-none d-lg-flex image-col">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/kontakt-smartfon-koperta.webp" alt="Telefon i koperta">
