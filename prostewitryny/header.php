@@ -41,8 +41,13 @@
 						</a>
 					</div>
 					<div class="col-1 social-col">
-						<a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google">
-							<i class="fa-brands fa-google top-social-icon google-top"></i>
+						<a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google - oddział Kraków">
+							<i class="fa-brands fa-google top-social-icon google-top"></i> K
+						</a>
+					</div>
+					<div class="col-1 social-col">
+						<a href="https://maps.app.goo.gl/vppQrgna74ViDwiC8" target="_blank" aria-label="Przejdź do wizytówki Google - oddział Słomniki">
+							<i class="fa-brands fa-google top-social-icon google-top"></i> S
 						</a>
 					</div>
 					<div class="col-auto">

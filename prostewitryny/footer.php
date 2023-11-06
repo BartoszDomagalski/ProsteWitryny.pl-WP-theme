@@ -23,7 +23,8 @@
                         <div class="social-box">
                             <h3 class="footer-col-title">Śledź nas na:</h3>
                             <a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka"><i class="fa-brands fa-facebook-f footer-social-icon fb-footer"></i></a>
-                            <a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google"><i class="fa-brands fa-google footer-social-icon google-footer"></i></a>
+                            <a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google"><i class="fa-brands fa-google footer-social-icon google-footer"></i> Kraków</a>
+                            <a href="https://maps.app.goo.gl/vppQrgna74ViDwiC8" target="_blank" aria-label="Przejdź do wizytówki Google"><i class="fa-brands fa-google footer-social-icon google-footer"></i> Słomniki</a>
                         </div>
                         
                     </div>
@@ -82,7 +83,7 @@
                         <p>Copyright &copy; <?php echo date("Y"); ?> ProsteWitryny.pl<br>Wszystkie prawa zastrzeżone</p>
                     </div>
                     <div class="col-12 col-md-7 footer-seo-col">
-                        <h3>Proste i responsywne strony internetowe</h3>
+                        <h3>Proste i responsywne firmowe strony internetowe WWW Kraków Słomniki</h3>
                     </div>
                     <div class="col-12 col-md-2 footer-dev-col">
                         <p>
