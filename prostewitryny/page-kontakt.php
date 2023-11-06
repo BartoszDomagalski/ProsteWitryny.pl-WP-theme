@@ -109,7 +109,7 @@ get_header(); ?>
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <h3 class="column-heading">Mapa <span>Siedziba 1</span></h3>
+        <h3 class="column-heading">Mapa <span>Siedziba 1 - Kraków</span></h3>
 
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1280.1554587995577!2d19.959893339014677!3d50.08046541408531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b800dd8a60f%3A0x845faefaac08b0b7!2sProsteWitryny.pl!5e0!3m2!1spl!2spl!4v1693345902385!5m2!1spl!2spl" width="1920" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -123,9 +123,9 @@ get_header(); ?>
 <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <h3 class="column-heading">Mapa <span>Siedziba 2</span></h3>
+        <h3 class="column-heading">Mapa <span>Siedziba 2 - Słomniki</span></h3>
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2552.174951381386!2d20.06477267689708!3d50.232636403022525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471652f0c26efe05%3A0x5da669398108cfcd!2sKrakowska%2062d%2C%2032-090%20S%C5%82omniki%2C%20Polska!5e0!3m2!1spl!2snl!4v1693309887455!5m2!1spl!2snl" width="1920" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17169.848563263626!2d20.05502418714984!3d50.2300523738292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716533170e9360b%3A0xe682d9985bb1a95f!2sProsteWitryny.pl%20-%20Strony%20Internetowe%20WWW%20S%C5%82omniki!5e0!3m2!1spl!2spl!4v1699288843363!5m2!1spl!2spl" width="1920" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           
       </div>
     </div>
