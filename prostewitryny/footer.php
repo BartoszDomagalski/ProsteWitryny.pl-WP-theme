@@ -70,7 +70,7 @@
                         <p class="wizGoo">ProsteWitryny.pl - Twoja Prosta Strona Internetowa Kraków</p>
                         <p><a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Brogi 19/18, Kraków</a></p>
                         <p class="wizGoo">ProsteWitryny.pl - Strony Internetowe WWW Słomniki</p>
-                        <p><a href="https://goo.gl/maps/zPWMuHkg3KA3ueQi6" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Krakowska 62d, Słomniki</a></p>
+                        <p><a href="https://maps.app.goo.gl/vppQrgna74ViDwiC8" target="_blank"><i class="fa-solid fa-map-location-dot"></i> Krakowska 62d, Słomniki</a></p>
                         
                         
                     </div>

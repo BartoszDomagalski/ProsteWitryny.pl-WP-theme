@@ -35,33 +35,6 @@ get_header(); ?>
         <div class="contact-icon-box">
           <div class="row no-gutters">
             <div class="col-2 icon-col">
-              <i class="fas fa-map-marked-alt"></i>
-            </div>
-            <div class="col-10">
-              <h2 class="contact-icon-title">Adres - Siedziba 1</h2>
-              <h3 class="contact-icon-content">
-                  <a href="https://goo.gl/maps/mLpyn54mniLeHwPV7" target="_blank">Brogi 19/18, 31-431 Kraków</a>
-              </h3>
-            </div>
-          </div>
-        </div>
-        <div class="contact-icon-box">
-          <div class="row no-gutters">
-            <div class="col-2 icon-col">
-              <i class="fas fa-map-marked-alt"></i>
-            </div>
-            <div class="col-10">
-              <h2 class="contact-icon-title">Adres - Siedziba 2</h2>
-              <h3 class="contact-icon-content">
-                  <a href="https://www.google.com/maps/place/MocOZE+-+Fotowoltaika,+Pompy+ciep%C5%82a/@50.232633,20.067362,15z/data=!4m5!3m4!1s0x0:0xa5f4ac864a5d61a!8m2!3d50.232633!4d20.067362" target="_blank">Krakowska 62d, 32-090 Słomniki</a>
-              </h3>
-            </div>
-          </div>
-        </div>
-
-        <div class="contact-icon-box">
-          <div class="row no-gutters">
-            <div class="col-2 icon-col">
               <i class="fas fa-mobile-alt"></i>
             </div>
             <div class="col-10">
@@ -82,6 +55,33 @@ get_header(); ?>
               <h2 class="contact-icon-title">Email</h2>
               <h3 class="contact-icon-content">
                 <a href="mailto:biuro@prostewitryny.pl">biuro@prostewitryny.pl</a>
+              </h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="contact-icon-box">
+          <div class="row no-gutters">
+            <div class="col-2 icon-col">
+              <i class="fas fa-map-marked-alt"></i>
+            </div>
+            <div class="col-10">
+              <h2 class="contact-icon-title">Adres - Siedziba 1</h2>
+              <h3 class="contact-icon-content">
+                  <a href="https://goo.gl/maps/mLpyn54mniLeHwPV7" target="_blank">Brogi 19/18, 31-431 Kraków</a>
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div class="contact-icon-box">
+          <div class="row no-gutters">
+            <div class="col-2 icon-col">
+              <i class="fas fa-map-marked-alt"></i>
+            </div>
+            <div class="col-10">
+              <h2 class="contact-icon-title">Adres - Siedziba 2</h2>
+              <h3 class="contact-icon-content">
+                  <a href="https://maps.app.goo.gl/vppQrgna74ViDwiC8" target="_blank">Krakowska 62d, 32-090 Słomniki</a>
               </h3>
             </div>
           </div>
