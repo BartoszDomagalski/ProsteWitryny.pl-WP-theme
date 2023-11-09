@@ -155,18 +155,16 @@ get_header(); ?>
     <div class="col">
       <p>Wszystkie nasze produkty/usługi w podstawowym pakiecie mogą zawierać również:</p>
       <ul>
-        <li><i class="fa-solid fa-server"></i>- hosting w cenie na 1 rok,</li>
-        <li><i class="fa-solid fa-globe"></i>- domenę w cenie na 1 rok,</li>
-        <li><i class="fa-brands fa-expeditedssl"></i>- certyfikat SSL (Let’s Encrypt),</li>
-        <li><i class="fa-brands fa-wordpress"></i>- panel administracyjny CMS - Wordpress,</li>
+        <li><i class="fa-solid fa-mobile"></i>- RWD - dostosowanie rozdzielczości layout-ów do urządzeń mobilnych i innych,</li>
+        <li><i class="fa-brands fa-wordpress"></i>- panel administracyjny CMS (Wordpress) - do samodzielnego wprowadzania zmian,</li>
+        <li><i class="fa-brands fa-expeditedssl"></i>- certyfikat SSL (Let’s Encrypt) - HTTPS,</li>
         <li><i class="fa-solid fa-paper-plane"></i>- skonfigurowany formularz kontaktowy,</li>
         <li><i class="fa-solid fa-share-nodes"></i>- integrację z Facebook, Instagram, YouTube, i innymi mediami społecznościowymi,</li>
-        <li><i class="fa-solid fa-headset"></i>- pomoc i wsparcie techniczne przy przekazaniu strony,</li>
-        <li><i class="fa-solid fa-mobile"></i>- RWD - dostosowanie do urządzeń mobilnych i innych</li>
-        <li><i class="fa-solid fa-photo-film"></i>- galerię,</li>
+        <li><i class="fa-solid fa-photo-film"></i>- galerię zdjęć / realizacji,</li>
         <li><i class="fa-solid fa-map-location-dot"></i>- mapę dojazdu do firmy,</li>
-        <!-- <li><i class="fa-solid fa-chart-pie"></i>- statystyki i analitykę strony (Google Analitics, Meta Pixel),</li> -->
-        <li><i class="fa-brands fa-searchengin"></i>- produkt przyjazny wyszukiwarkom Google, Bing (optymalizacja SEO).</li>
+        <li><i class="fa-solid fa-chart-pie"></i>- statystyki i analitykę strony (Google Analitics, Meta Pixel),</li>
+        <li><i class="fa-brands fa-searchengin"></i>- produkt przyjazny wyszukiwarkom Google, Bing (optymalizacja SEO),</li>
+        <li><i class="fa-solid fa-headset"></i>- szkolenie i wsparcie techniczne przy przekazaniu strony.</li>
       </ul>
     </div>
   </div>
