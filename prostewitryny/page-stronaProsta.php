@@ -175,6 +175,7 @@ get_header(); ?>
       <div class="col">
         <p>Wszystkie nasze produkty/usługi w podstawowym pakiecie zawierają również:</p>
         <ul>
+          <li><i class="fa-brands fa-searchengin"></i>- optymalizacja SEO - produkt przyjazny wyszukiwarkom Google, Bing i innym,</li>
           <li><i class="fa-solid fa-mobile"></i>- RWD - dostosowanie rozdzielczości layout-ów do urządzeń mobilnych i innych,</li>
           <li><i class="fa-brands fa-wordpress"></i>- panel administracyjny CMS (Wordpress) - do samodzielnego wprowadzania zmian,</li>
           <li><i class="fa-brands fa-expeditedssl"></i>- certyfikat SSL (Let’s Encrypt) - HTTPS,</li>
@@ -183,7 +184,6 @@ get_header(); ?>
           <li><i class="fa-solid fa-photo-film"></i>- galerię zdjęć / realizacji,</li>
           <li><i class="fa-solid fa-map-location-dot"></i>- mapę dojazdu do firmy,</li>
           <li><i class="fa-solid fa-chart-pie"></i>- statystyki i analitykę strony (Google Analitics, Meta Pixel),</li>
-          <li><i class="fa-brands fa-searchengin"></i>- produkt przyjazny wyszukiwarkom Google, Bing (optymalizacja SEO),</li>
           <li><i class="fa-solid fa-headset"></i>- szkolenie i wsparcie techniczne przy przekazaniu strony.</li>
         </ul>
       </div>
