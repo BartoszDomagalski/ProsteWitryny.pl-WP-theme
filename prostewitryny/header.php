@@ -35,21 +35,13 @@
 		<div id="top-contact">
 			<div class="container-fluid">
 				<div class="row top-contact-row" id="top-contact-row-id">
-					<div class="col-1 social-col">
+					<div class="col-2 social-col">
 						<a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka">
 							<i class="fa-brands fa-facebook-f top-social-icon fb-top"></i> fb
 						</a>
 					</div>
-					<div class="col-1 social-col">
-						<a href="https://goo.gl/maps/b4dGRgm7cohhqC2K9" target="_blank" aria-label="Przejdź do wizytówki Google - oddział Kraków">
-							<i class="fa-brands fa-google top-social-icon google-top"></i> Krk
-						</a>
-					</div>
-					<div class="col-1 social-col">
-						<a href="https://maps.app.goo.gl/vppQrgna74ViDwiC8" target="_blank" aria-label="Przejdź do wizytówki Google - oddział Słomniki">
-							<i class="fa-brands fa-google top-social-icon google-top"></i> Słm
-						</a>
-					</div>
+					
+					
 					<div class="col-auto">
 						<a href="tel:+48453310100">
 							<i class="fa-solid fa-phone"></i>

@@ -653,7 +653,15 @@ p {
 /*------------------------------------------------------*/
 /*Breadcrumbs Styles*/
 /*------------------------------------------------------*/
+.breadcrumbs {
+    font-size: 12px;
+    margin: auto;
+    // padding-top: 5px;
 
+    span {
+        font-size: 12px;
+    }
+}
 .breadcrumb-div {
     margin-top: 46px;
     padding: 1px;
@@ -663,9 +671,9 @@ p {
 
     span {
         color: $theme-color;
-        padding: 0 5px;
+        padding: 0;
         font-weight: 700;
-        font-size: 13px;
+        font-size: 12px;
         
         a:hover span {
             text-decoration: underline;
@@ -674,12 +682,9 @@ p {
 }
 
 
-
 /*------------------------------------------------------*/
 /*Page Top-Baner Styles*/
 /*------------------------------------------------------*/
-
-
 
 .page-header-col {
     background-color: $theme-color;
@@ -1396,21 +1401,25 @@ section#oferta {
     padding-bottom: 50px;
 
     h1 {
+        padding-top: 50px;
+        padding-bottom: 50px;
         padding-left: 80px;
         // padding-right: 495px;
         margin-bottom: 50px;
         font-style: italic;
+        background-color: $third-color;
+        color: $theme-color;
 
         strong {
             font-style: normal;
             text-transform: uppercase;
-            color: $second-color;
+            color: $theme-color;
             font-size: 68px;
             font-weight: 700;
         }
 
         @media (max-width: 1338px) {
-            padding: 30px 5px;
+            padding: 50px 30px;
         }
         @media (max-width: 1199px) {
             font-size: 38px;
@@ -1422,7 +1431,7 @@ section#oferta {
         }
         @media (max-width: 991px) {
             font-size: 28px;
-            padding: 15px 5px;
+            padding: 30px;
 
             strong {
                 font-size: 38px;
