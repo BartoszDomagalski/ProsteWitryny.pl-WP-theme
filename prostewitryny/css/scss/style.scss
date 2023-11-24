@@ -779,6 +779,17 @@ h2.oferta-page-header {
 /*Section Title Styles*/
 /*------------------------------------------------------*/
 
+section {
+
+
+    h2 {
+
+        & + h4 {
+            color: $second-color;
+        }
+    }
+}
+
 .section-title-row {
     /*height: 50px;*/
     margin-bottom: 30px;
@@ -1081,6 +1092,10 @@ section#fp-contact {
         color: $theme-color;
     }
 
+    h4 {
+        color: $theme-color;
+    }
+
     a.strona-button {
         // display: ruby-text;
         // margin-top: 20px;
@@ -1358,6 +1373,10 @@ section#oferta-dodatkowe-uslugi {
 
 section#why-we {
 
+    h4 {
+        color: $theme-color;
+    }
+
 
     @media (max-width: 575px) {
 
@@ -1409,6 +1428,7 @@ section#oferta {
         font-style: italic;
         background-color: $third-color;
         color: $theme-color;
+        border-radius: 30px;
 
         strong {
             font-style: normal;
@@ -1475,6 +1495,72 @@ section#oferta {
                 
             }
         }
+    }
+}
+
+#hosting {
+    padding: 50px 0;
+
+    h2, h4 {
+        color: $second-color;
+        text-align: center;
+    }
+
+    h4 {
+        margin-bottom: 70px;
+    }
+
+    p {
+        color: $theme-color;
+        text-align: center;
+        padding: 50px 0px;
+    }
+
+    ul {
+
+
+        li {
+            font-size: 20px;
+            list-style: none;
+
+            strong {
+                color: $theme-color;
+                font-size: 28px;
+                font-weight: 700;
+            }
+
+            span {
+                color: $theme-color;
+                font-weight: 700;
+            }
+        }
+    }
+
+    .img-col {
+        text-align: center;
+        margin: auto;
+    }
+
+    .text-col {
+        background-color: rgba(211, 172, 43, .9);
+        border-radius: 25px;
+    }
+
+    .bottom-row {
+
+        p {
+            color: $second-color;
+            font-size: 28px;
+        }
+    }
+}
+
+#baner-answer {
+    background-color: $second-color;
+
+    h2 {
+        text-align: center;
+        color: $theme-color;
     }
 }
 
