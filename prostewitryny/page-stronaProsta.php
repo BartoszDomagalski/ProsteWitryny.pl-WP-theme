@@ -65,7 +65,7 @@ get_header(); ?>
     <div class="row">
       <div class="col">
         <h2>Hosting i Domena</h2>
-        <h4>Dwie usługi konieczne do prowadzenia strony internetowej.</h4>
+        <p class="opisNaglowka">Dwie usługi konieczne do prowadzenia strony internetowej.</p>
       </div>
     </div>
     <div class="row">
@@ -73,10 +73,11 @@ get_header(); ?>
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/hosting/domain.webp" alt="Hosting i Domena">
       </div>
       <div class="col-12 col-lg-7 text-col">
-        <p>Jeśli chcesz mieć profesjonalną stronę internetową dla swojej małej lub średniej firmy, musisz pamiętać o dwóch ważnych elementach: domenie i hostingu. Aby Twoja strona była dostępna i bezpieczna, musisz wykupić i opłacać rocznie domenę i hosting u odpowiedniego dostawcy:</p>
+        <h4>Czym są usługa Hostingu i Domena?</h4>
+        <p>Jeśli chcesz mieć profesjonalną stronę internetową dla swojej firmy, musisz pamiętać o dwóch ważnych elementach: domenie i hostingu. Aby Twoja strona była dostępna w internecie, musisz wykupić i opłacać rocznie domenę i hosting u odpowiedniego dostawcy:</p>
         <ul>
-          <li><strong>Domena</strong> to adres Twojej strony w sieci, np. www.twoja-firma.pl <span>(Cena ok. 80zł/rok)</span></li>
-          <li><strong>Hosting</strong> to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span>(Cena ok. 200zł/rok)</span></li>
+          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 80zł/rok)</span></li>
+          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 200zł/rok)</span></li>
         </ul>
         <p> My, jako profesjonalni eksperci od tworzenia stron internetowych, pomożemy Ci w wyborze najlepszej oferty i zajmiemy się wszystkimi formalnościami. Z nami stworzysz atrakcyjną i funkcjonalną stronę internetową dla swojej firmy, która przyciągnie nowych klientów i zwiększy Twoje zyski.</p>
       </div>
