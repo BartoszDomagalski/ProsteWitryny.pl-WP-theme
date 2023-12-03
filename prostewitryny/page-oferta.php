@@ -88,7 +88,7 @@ get_header(); ?>
 
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
   <h2 class="display-4">Cennik</h2>
-  <p class="lead">Zapoznaj się z cenami naszych trzech oferowanych pakietów dostosowanych do Twoich potrzeb.</p>
+  <p class="lead">Zapoznaj się z oferowanymi przez nas pakietami usług dostosowanych do Twoich potrzeb.</p>
 </div>
 
 <div class="container-fluid">
@@ -98,15 +98,11 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Podstawowy</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł</h4>
+        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 119zł/rok (1 rok Gratis)</li>
-          <!-- <li>- kilka szablonów do wyboru</li> -->
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 2 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 3 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
         <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
@@ -117,43 +113,20 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Rozszerzony</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">1999 zł</h4>
+        <h4 class="card-title pricing-card-title">2499 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>- + 249zł/rok (1 rok Gratis)</li>
           <li>- proste projekty indywidualne</li>
-          <!-- <li>- wiele szablownów do wyboru</li> -->
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnej redakcji</li>
+          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 10 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- 10 x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
+          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
           <li>- Wsparcie przez 3 miesiące</li>
         </ul>
         <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
         <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Premium</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">3499 zł</h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>+ 499zł/rok</li>
-          <li>- zaawansowane projekty indywidualne z poprawkami</li>
-          <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <!-- <li>- 15 GB przestrzeni dyskowej</li> -->
-          <!-- <li>- Nieskończenie x Email</li> -->
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 1 rok</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
+    
   </div>
 
 </section>

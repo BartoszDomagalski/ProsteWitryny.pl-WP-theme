@@ -144,7 +144,7 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Podstawowy</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł</h4>
+        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
           <li>- treści generowane sztuczną inteligencją i darmowe</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
@@ -159,7 +159,7 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Rozszerzony</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">1999 zł</h4>
+        <h4 class="card-title pricing-card-title">2499 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
           <li>- proste projekty indywidualne</li>
           <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
@@ -172,23 +172,7 @@ get_header(); ?>
         <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Premium</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">3499 zł</h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- złożone, indywidualne projekty graficzne z możliwością wprowadzania poprawek</li>
-          <li>- treści na strone przygotowywane z oddelegowanym profesjonalistą</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
-          <li>- Wsparcie przez 9 miesięcy</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
+    
   </div>
 
 </section>

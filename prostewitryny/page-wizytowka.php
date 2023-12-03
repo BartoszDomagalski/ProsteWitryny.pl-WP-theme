@@ -140,7 +140,7 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Podstawowy</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">399 zł</h4>
+        <h4 class="card-title pricing-card-title">399 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
           <li>- kilka szablonów do wyboru</li>
           <li>- możliwość dostarczenia własnych treści i zdjęć</li>
@@ -155,7 +155,7 @@ get_header(); ?>
         <h4 class="my-0 font-weight-normal">Premium</h4>
       </div>
       <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł</h4>
+        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
         <ul class="list-unstyled mt-3 mb-4">
           <li>- indywidualne projekty personalizowane</li>
           <li>- baza treści generowane sztuczną inteligencją i darmowa</li>
