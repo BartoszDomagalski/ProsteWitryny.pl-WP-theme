@@ -198,12 +198,11 @@ get_header(); ?>
     <div class="row">
       <div class="col">
           <h2>Dodatkowe usługi</h2>
-          <h4>Zapoznaj się z tym co otrzymujesz decydując się na którykolwiek z naszych pakietów!</h4>
       </div>
     </div>
     <div class="row">
       <div class="col">
-        <p>Wszystkie nasze produkty/usługi w podstawowym pakiecie zawierają również:</p>
+        <p>Wszystkie nasze usługi w standardzie zawierają również:</p>
         <ul>
           <li><i class="fa-brands fa-searchengin"></i>- optymalizacja SEO - produkt przyjazny wyszukiwarkom Google, Bing i innym,</li>
           <li><i class="fa-solid fa-mobile"></i>- RWD - dostosowanie rozdzielczości layout-ów do urządzeń mobilnych i innych,</li>

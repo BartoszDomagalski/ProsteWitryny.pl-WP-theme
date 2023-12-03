@@ -202,7 +202,7 @@ get_header(); ?>
   </div>
   <div class="row">
     <div class="col">
-      <p>Wszystkie nasze usługi w standardowym pakiecie zawierają również:</p>
+    <p>Wszystkie nasze usługi w standardzie zawierają również:</p>
       <ul>
         <li><i class="fa-brands fa-searchengin"></i>- optymalizacja SEO - produkt przyjazny wyszukiwarkom Google, Bing i innym,</li>
         <li><i class="fa-solid fa-mobile"></i>- RWD - dostosowanie rozdzielczości layout-ów do urządzeń mobilnych i innych,</li>
