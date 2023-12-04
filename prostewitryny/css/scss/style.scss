@@ -193,6 +193,7 @@ section {
         color: $second-color;
         font-weight: 700;
         font-size: 48px;
+        text-transform: uppercase;
     }
 
 
@@ -2349,6 +2350,7 @@ section#kontakt-dane {
             font-weight: 500;
             margin: 0;
             margin-bottom: 8px;
+            text-transform: unset;
         }
 
         h3.contact-icon-content {

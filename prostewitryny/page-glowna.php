@@ -26,10 +26,10 @@ get_header(); ?>
                 <p>Specjalizujemy się w tworzeniu stron internetowych dla małych i średnich firm. Oferujemy kompleksową obsługę, od projektu graficznego, przez programowanie, po optymalizację i pozycjonowanie. Nasze strony są responsywne, czyli dostosowane do różnych urządzeń i rozdzielczości ekranu. Używamy nowoczesnych technologii i narzędzi, takich jak HTML5, CSS3, JavaScript, WordPress, Bootstrap i inne.</p>
                 <p>Naszym celem jest stworzenie strony internetowej, która będzie nie tylko ładna i funkcjonalna, ale także skuteczna w przyciąganiu i zatrzymywaniu klientów. Dlatego dbamy o to, aby nasze strony były:</p>
                 <ul>
-                    <li><strong>atrakcyjne</strong> - zwracamy uwagę na estetykę i ergonomię, dobieramy odpowiednie kolory, czcionki, zdjęcia i elementy graficzne</li>
-                    <li><strong>intuicyjne</strong> - zapewniamy łatwą nawigację i przejrzystą strukturę, umożliwiamy szybkie znalezienie informacji i kontaktu</li>
-                    <li><strong>perswazyjne</strong> - podkreślamy zalety i korzyści z oferty, budujemy zaufanie i wiarygodność, zachęcamy do podjęcia akcji</li>
-                    <li><strong>zoptymalizowane</strong> - stosujemy zasady SEO (Search Engine Optimization), czyli optymalizacji pod kątem wyszukiwarek internetowych, takich jak Google czy Bing. Dzięki temu nasze strony mają lepszą widoczność i pozycję w wynikach wyszukiwania.</li>
+                    <li><strong>atrakcyjne</strong><br>zwracamy uwagę na estetykę i ergonomię, dobieramy odpowiednie kolory, czcionki, zdjęcia i elementy graficzne</li>
+                    <li><strong>intuicyjne</strong><br>zapewniamy łatwą nawigację i przejrzystą strukturę, umożliwiamy szybkie znalezienie informacji i kontaktu</li>
+                    <li><strong>perswazyjne</strong><br>podkreślamy zalety i korzyści z oferty, budujemy zaufanie i wiarygodność, zachęcamy do podjęcia akcji</li>
+                    <li><strong>SEO-zoptymalizowane</strong><br>stosujemy zasady SEO (Search Engine Optimization), czyli optymalizacji pod kątem wyszukiwarek internetowych, takich jak Google czy Bing. Dzięki temu nasze strony mają lepszą widoczność i pozycję w wynikach wyszukiwania.</li>
                 </ul>
                 <p>Nasza oferta jest elastyczna i dopasowana do indywidualnych potrzeb i budżetu każdego klienta. Możemy stworzyć stronę internetową od podstaw lub odświeżyć istniejącą. Możemy również zająć się utrzymaniem i aktualizacją strony, dodawaniem treści i funkcjonalności. Niezależnie od tego, jaką masz wizję swojej strony internetowej, my ją zrealizujemy!</p>
             </div>
@@ -51,7 +51,7 @@ get_header(); ?>
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2>Oferta Stron Internetowych</h2>
+                <h2>Oferta: Strony Internetowe</h2>
             </div>
         </div>
 
@@ -106,22 +106,22 @@ get_header(); ?>
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <h2>Oferta ProsteWitryny.pl</h2>
+                <h2>Oferta: Pozostałe usługi</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-6 col-lg-4">
-            <i class="fa-solid fa-stopwatch"></i>
-                <h3>Pakiety godzinowe ProsteWitryny.pl</h3>
+            <i class="fa-solid fa-clock-rotate-left"></i>
+                <h3>Pakiety godzinowe</h3>
                 <p>Elastyczne pakiety godzinowe, dostosowane do Twoich potrzeb, gwarantujące indywidualne podejście do rozwoju i utrzymania Twojej strony.</p>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
-            <i class="fa-solid fa-calendar-plus"></i>
-                <h3>Abonament ProsteWitryny.pl</h3>
+            <i class="fa-regular fa-calendar-days"></i>
+                <h3>Abonament</h3>
                 <p>Jeśli potrzebujesz utrzymania lub stałego rozwoju Twojej strony internetowej. Najlepszy stosunek ceny do godziny pracy.</p>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
-            <i class="fa-solid fa-trowel-bricks"></i>
+            <i class="fa-solid fa-cloud-arrow-up"></i>
                 <h3>Rozbudowa strony internetowej</h3>
                 <p>Zwiększ funkcjonalność swojej strony poprzez dodawanie nowych modułów i funkcji, dostosowując ją do zmieniających się potrzeb i oczekiwań użytkowników.</p>
             </div>
@@ -136,7 +136,7 @@ get_header(); ?>
                 <p>Bezpieczne przeniesienie strony z pełnym zachowaniem treści i funkcji, eliminując wszelkie problemy techniczne.</p>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
-            <i class="fa-solid fa-gear"></i>
+            <i class="fa-brands fa-wordpress"></i>
                 <h3>Aktualizacja WordPress</h3>
                 <p>Regularne aktualizacje WordPress i jego wtyczek, dbając o bezpieczeństwo strony oraz zapewniając dostęp do najnowszych funkcji i usprawnień.</p>
             </div>
@@ -151,7 +151,7 @@ get_header(); ?>
                 <p>Indywidualne szkolenia pomagające zrozumieć funkcje WordPress, umożliwiające efektywne zarządzanie treściami i utrzymanie aktualności strony.</p>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
-            <i class="fa-solid fa-blog"></i>
+            <i class="fa-solid fa-feather"></i>
                 <h3>Prowadzenie firmowego bloga</h3>
                 <p>Systematyczne tworzenie wartościowych treści na blogu, zwiększające zaufanie klientów, budujące ekspertyzę branżową i generujące ruch na stronie.</p>
             </div>
@@ -191,15 +191,15 @@ get_header(); ?>
         <h4>Czym są usługa Hostingu i Domena?</h4>
         <p>Jeśli chcesz mieć profesjonalną stronę internetową dla swojej firmy, musisz pamiętać o dwóch ważnych elementach: domenie i hostingu. Aby Twoja strona była dostępna w internecie, musisz wykupić i opłacać rocznie domenę i hosting u odpowiedniego dostawcy:</p>
         <ul>
-          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 80zł/rok)</span></li>
-          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 200zł/rok)</span></li>
+          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 60zł/rok)</span></li>
+          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 100zł/rok)</span></li>
         </ul>
         <p> My, jako profesjonalni eksperci od tworzenia stron internetowych, pomożemy Ci w wyborze najlepszej oferty i zajmiemy się wszystkimi formalnościami. Z nami stworzysz atrakcyjną i funkcjonalną stronę internetową dla swojej firmy, która przyciągnie nowych klientów i zwiększy Twoje zyski.</p>
       </div>
     </div>
     <div class="row bottom-row">
         <div class="col ">
-            <p>Prostą stronę - wizytówkę Twojej firmy, możesz przechowywać u nas na serwerze w znacząco niższej cenie.<br>W ten sposób możesz zaoszczędzić na usłudze Hostingu.</p>
+            <p>Prostą stronę - wizytówkę Twojej firmy, możesz przechowywać u nas na serwerze w znacząco niższej cenie - 50 zł netto / rok.<br>W ten sposób możesz zaoszczędzić na usłudze Hostingu.</p>
         </div>
     </div>
   </div>

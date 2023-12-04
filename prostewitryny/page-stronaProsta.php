@@ -76,15 +76,15 @@ get_header(); ?>
         <h4>Czym są usługa Hostingu i Domena?</h4>
         <p>Jeśli chcesz mieć profesjonalną stronę internetową dla swojej firmy, musisz pamiętać o dwóch ważnych elementach: domenie i hostingu. Aby Twoja strona była dostępna w internecie, musisz wykupić i opłacać rocznie domenę i hosting u odpowiedniego dostawcy:</p>
         <ul>
-          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 80zł/rok)</span></li>
-          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 200zł/rok)</span></li>
+          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 60zł/rok)</span></li>
+          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 100zł/rok)</span></li>
         </ul>
         <p> My, jako profesjonalni eksperci od tworzenia stron internetowych, pomożemy Ci w wyborze najlepszej oferty i zajmiemy się wszystkimi formalnościami. Z nami stworzysz atrakcyjną i funkcjonalną stronę internetową dla swojej firmy, która przyciągnie nowych klientów i zwiększy Twoje zyski.</p>
       </div>
     </div>
     <div class="row bottom-row">
         <div class="col ">
-            <p>Prostą stronę - wizytówkę Twojej firmy, możesz przechowywać u nas na serwerze w znacząco niższej cenie.<br>W ten sposób możesz zaoszczędzić na usłudze Hostingu.</p>
+            <p>Prostą stronę - wizytówkę Twojej firmy, możesz przechowywać u nas na serwerze w znacząco niższej cenie - 50 zł netto / rok.<br>W ten sposób możesz zaoszczędzić na usłudze Hostingu.</p>
         </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ get_header(); ?>
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Podstawowy</h4>
+        <h4 class="my-0 font-weight-normal">BASIC</h4>
       </div>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
@@ -156,7 +156,7 @@ get_header(); ?>
     </div>
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Rozszerzony</h4>
+        <h4 class="my-0 font-weight-normal">PREMIUM</h4>
       </div>
       <div class="card-body">
         <h4 class="card-title pricing-card-title">2499 zł <span>netto</span></h4>
