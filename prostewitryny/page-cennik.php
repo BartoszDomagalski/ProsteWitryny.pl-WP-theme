@@ -18,153 +18,132 @@ get_header(); ?>
   </div>
 </section>
 
-<section id="cennik">
+<section id="fp-ofertaStrony">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2>Oferta: Strony Internetowe</h2>
+            </div>
+        </div>
 
-<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <!-- <h2 class="display-4">Cennik</h2> -->
-  <h2>Firmowe strony internetowe</h2>
-  <p class="lead">Jeśli szukasz prostego i responsywnego rozwiązania dla swojej firmy, to ta oferta jest dla ciebie. Oferujemy profesjonalne tworzenie stron internetowych, które dostosowują się do każdego urządzenia i przeglądarki. Nasze strony są szybkie, bezpieczne i łatwe w zarządzaniu. Możesz wybrać spośród gotowych szablonów i kolorów, a także dodać własne logo, zdjęcia i treści. Nie musisz martwić się o hosting, domenę ani zabezpieczenie SSL — my zajmiemy się wszystkim. A co najważniejsze, nasze ceny są bardzo atrakcyjne i konkurencyjne. Nie czekaj, zamów już dziś swoją firmową stronę internetową i zacznij zdobywać nowych klientów. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Prosta i responsywna firmowa strona internetowa w atrakcyjnej cenie — to brzmi dobrze, prawda?</p>
-  <a href="<?php echo site_url('/oferta/firmowa-strona-internetowa'); ?>
-" class="strona-button oferta-button">Więcej...</a>
-</div>
-
-<div class="container-fluid">
-  <div class="card-deck mb-3 text-center">
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Podstawowy</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- treści generowane sztuczną inteligencją i darmowe</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <div class="webpages-offer-box" id="webpages-offer-box-std">
+                    <div class="webpages-offer-header">
+                        <h3>Strona internetowa</h3>
+                        <p>BASIC</p>
+                        <p class="price">od 999 zł</p>
+                    </div>
+                    <div class="webpages-offer-desc">
+                        <h4>Zalety strony internetowej BASIC:</h4>
+                        <ul>
+                            <li>wzmacnia cyfrowy wizerunek firmy w internecie</li>
+                            <li>świetna na start pod E-marketing</li>
+                            <li>strona na własność za niewielkie pieniądze</li>
+                            <li>jednorazowa opłata za skonfigurowanie i uruchomienie strony (brak abonamentu)</li>
+                            <li>pełen dostęp do kodu pozwalający na dowolne modyfikacje i rozbudowę</li>
+                            <li>wszelkie zalety silnika WordPress</li>
+                        </ul>
+                    </div>
+                    <a href="" class="strona-button">Więcej</a>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+            <div class="webpages-offer-box" id="webpages-offer-box-premium">
+                    <div class="webpages-offer-header">
+                        <h3>Strona internetowa</h3>
+                        <p>PREMIUM</p>
+                        <p class="price">od 2499 zł</p>
+                    </div>
+                    <div class="webpages-offer-desc">
+                        <h4>Zalety strony internetowej PREMIUM:</h4>
+                        <ul>
+                            <li>oddany zespół profesjonalistów stworzy dla Ciebie szytą na miarę stronę internetową</li>
+                            <li>świetny dla wymagających klientów poszukujący najwyższej jakości</li>
+                            <li>dedykowana grafika, która pozwala wyróżnić się na rynku</li>
+                            <li>wykonywanie zaawansowanych funkcjonalności strony www</li>
+                            <li>własny project manager, pomagający w całym procesie tworzenia strony</li>
+                            <li>wszelkie zalety silnika WordPress</li>
+                        </ul>
+                    </div>
+                    <a href="" class="strona-button">Więcej</a>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Rozszerzony</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">2499 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- proste projekty indywidualne</li>
-          <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
-          <li>- Wsparcie przez 3 miesiące</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
-    
-  </div>
-
 </section>
 
-<section id="cennik">
-
-<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <!-- <h2 class="display-4">Cennik</h2> -->
-  <h2>Proste strony internetowe</h2>
-  <p class="lead">Prosta strona internetowa to produkt, który umożliwia Ci stworzenie profesjonalnej i atrakcyjnej strony internetowej małym kosztem, bez żadnej wiedzy technicznej. Wystarczy, że wybierzesz jeden z wielu gotowych szablonów lub dostarczysz nam własną treść taką jak teksty, zdjęcia, filmy. My zajmiemy się wszystkim i sprawimy, że Twoja strona będzie wyjątkowa i funkcjonalna.</p>
-  <a href="<?php echo site_url('/oferta/prosta-strona-internetowa'); ?>
-" class="strona-button oferta-button">Więcej...</a>
-</div>
-
-<div class="container-fluid">
-  <div class="card-deck mb-3 text-center">
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Podstawowy</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- treści generowane sztuczną inteligencją i darmowe</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
+<section id="fp-offer-prostewitryny">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Oferta: Pozostałe usługi</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-clock-rotate-left"></i>
+                <h3>Pakiety godzinowe</h3>
+                <p>Elastyczne pakiety godzinowe, dostosowane do Twoich potrzeb, gwarantujące indywidualne podejście do rozwoju i utrzymania Twojej strony.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-regular fa-calendar-days"></i>
+                <h3>Abonament</h3>
+                <p>Jeśli potrzebujesz utrzymania lub stałego rozwoju Twojej strony internetowej. Najlepszy stosunek ceny do godziny pracy.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-cloud-arrow-up"></i>
+                <h3>Rozbudowa strony internetowej</h3>
+                <p>Zwiększ funkcjonalność swojej strony poprzez dodawanie nowych modułów i funkcji, dostosowując ją do zmieniających się potrzeb i oczekiwań użytkowników.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-arrows-rotate"></i>
+                <h3>Optymalizacja strony internetowej</h3>
+                <p>Poprawa wydajności i responsywności strony, zminimalizowanie czasu ładowania, co przekłada się na lepsze wrażenia użytkownika i ma korzystny wpływ na pozycje w wyszukiwarkach.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <i class="fa-solid fa-dolly"></i>
+                <h3>Przeniesienie strony internetowej</h3>
+                <p>Bezpieczne przeniesienie strony z pełnym zachowaniem treści i funkcji, eliminując wszelkie problemy techniczne.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-brands fa-wordpress"></i>
+                <h3>Aktualizacja WordPress</h3>
+                <p>Regularne aktualizacje WordPress i jego wtyczek, dbając o bezpieczeństwo strony oraz zapewniając dostęp do najnowszych funkcji i usprawnień.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-gears"></i>
+                <h3>Konfiguracja wtyczek WordPress</h3>
+                <p>Maksymalizacja potencjału WordPress poprzez starannie dostosowaną konfigurację wtyczek, zwiększając funkcjonalność i efektywność strony.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-graduation-cap"></i>
+                <h3>Szkolenia obsługi WordPress</h3>
+                <p>Indywidualne szkolenia pomagające zrozumieć funkcje WordPress, umożliwiające efektywne zarządzanie treściami i utrzymanie aktualności strony.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-feather"></i>
+                <h3>Prowadzenie firmowego bloga</h3>
+                <p>Systematyczne tworzenie wartościowych treści na blogu, zwiększające zaufanie klientów, budujące ekspertyzę branżową i generujące ruch na stronie.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-thumbs-up"></i>
+                <h3>Firmowe profile społecznościowe</h3>
+                <p>Profesjonalne zarządzanie profilami społecznościowymi firmy, budując zaangażowanie klientów i tworząc pozytywny wizerunek marki w mediach społecznościowych.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-chart-simple"></i>
+                <h3>E-marketing</h3>
+                <p>Skuteczne strategie e-marketingu obejmujące kampanie reklamowe, analizę konkurencji, optymalizację treści, by zwiększyć widoczność i przyciągnąć nowych klientów.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+            <i class="fa-solid fa-medal"></i>
+                <h3>Identyfikacja wizualna</h3>
+                <p>Tworzenie unikalnej tożsamości wizualnej marki poprzez projektowanie logo, kolorów i elementów graficznych, budując rozpoznawalność i wyróżniając się na rynku.</p>
+            </div>
+            
+        </div>
     </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Rozszerzony</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">2499 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- proste projekty indywidualne</li>
-          <li>- baza treści generowana sztuczną inteligencją i darmowa</li>
-          <li>- wygenerowane treści poddawane profesjonalnym poprawkom</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe i szkolenie z obsługi</li>
-          <li>- Wsparcie przez 3 miesiące</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
-    
-  </div>
-
-</section>
-
-<section id="cennik" class="ostatni-cennik">
-
-<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <!-- <h2 class="display-4">Cennik</h2> -->
-  <h2>Wizytówki internetowe</h2>
-  <p class="lead">Tworzenie wizytówki internetowej to usługa, która pozwala ci stworzyć swoją własną stronę internetową w prosty i tani sposób. Wizytówka internetowa to jednostronicowa strona, która zawiera podstawowe informacje o tobie, twojej firmie lub organizacji, takie jak: nazwa, logo, zdjęcie, opis działalności, dane kontaktowe i linki do mediów społecznościowych. Wizytówka internetowa jest idealna dla osób, które chcą się zaprezentować w sieci, zwiększyć swoją widoczność i rozpoznawalność, zbudować zaufanie i wiarygodność, a także nawiązać kontakt z potencjalnymi klientami, partnerami lub pracodawcami. Tworzenie wizytówki internetowej jest łatwe i szybkie. Możesz wybrać spośród gotowych szablonów i kolorów, a także dodać własne treści i elementy graficzne. Nie musisz martwić się o hosting, domenę ani zabezpieczenia SSL — my zajmiemy się wszystkim. A co najważniejsze, nasza usługa jest bardzo atrakcyjna cenowo i konkurencyjna. Nie czekaj, zamów już dziś swoją wizytówkę internetową i zacznij promować się w sieci. Skontaktuj się z nami, a przygotujemy dla ciebie indywidualną ofertę. Tworzenie wizytówki internetowej — to proste i tanie rozwiązanie dla ciebie.</p>
-  <a href="<?php echo site_url('/oferta/wizytowka-internetowa'); ?>
-" class="strona-button oferta-button">Więcej...</a>
-</div>
-
-<div class="container-fluid">
-  <div class="card-deck mb-3 text-center">
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Podstawowy</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">399 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- kilka szablonów do wyboru</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-outline-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Premium</h4>
-      </div>
-      <div class="card-body">
-        <h4 class="card-title pricing-card-title">999 zł <span>netto</span></h4>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>- indywidualne projekty personalizowane</li>
-          <li>- baza treści generowane sztuczną inteligencją i darmowa</li>
-          <li>- treści poddawane profesjonalnym poprawkom</li>
-          <li>- możliwość dostarczenia własnych treści i zdjęć</li>
-          <li>- Wsparcie rozruchowe</li>
-          <li>- Wsparcie przez 3 miesiące</li>
-        </ul>
-        <!-- <button type="button" class="btn btn-lg btn-block btn-primary">Zadzwoń!</button> -->
-        <a href="tel:+48453310100" class="strona-button">Zadzwoń!</a>
-      </div>
-    </div>
-  </div>
-
 </section>
 
 <section id="why-we" class="text-center">
