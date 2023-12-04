@@ -75,7 +75,11 @@ section#top-site-heading {
 
     p {
         margin-bottom: 50px;
-        font-size: 24px;
+        font-size: 22px;
+
+        @media (min-width: 1199px) {
+            font-size: 24px;
+        }
     }
 
     .banner-col {
@@ -913,6 +917,118 @@ section#what-we-do {
         p {
             text-align: justify;
         }
+    }
+}
+
+#fp-ofertaStrony {
+    text-align: center;
+
+    h2 {
+        margin-bottom: 50px;
+    }
+
+    #webpages-offer-box-std {
+        background-image: url(../img/glowna/webpages-offer-background-std.webp);
+    }
+
+    #webpages-offer-box-premium {
+        background-image: url(../img/glowna/webpages-offer-background-premium.webp);
+    }
+
+    .webpages-offer-box {
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-color: $third-color;
+        color: $theme-color;
+        position: relative;
+        // margin: 0 44px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        border-radius: 7px;
+        -webkit-box-shadow: 0px 12px 32px 0px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 0px 12px 32px 0px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 12px 32px 0px rgba(0, 0, 0, 0.3);
+
+        .webpages-offer-header {
+            // background-color: $theme-color;
+            color: $third-color;
+            min-height: 202px;
+            margin-left: 210px;
+            text-align: left;
+
+            h3 {
+                font-size: 20px;
+                padding-top: 30px;
+                font-weight: 700;
+                line-height: 1;
+                margin-bottom: 6px;
+            }
+
+            p {
+                font-size: 30px;
+                text-transform: uppercase;
+                font-weight: 700;
+                line-height: 1;
+                margin-bottom: 10px;
+            }
+
+            p.price {
+                font-size: 28px;
+                // display: inline-block;
+                font-weight: 700;
+                line-height: 1;
+                margin-bottom: 5px;
+                color: $second-color;
+                text-transform: lowercase;
+            }
+        }
+
+        .webpages-offer-desc {
+            margin: 30px;
+            min-height: 350px;
+
+            h4 {
+                text-align: justify;
+                line-height: 1.3;
+                font-size: 16px;
+                font-weight: 700;
+            }
+
+            ul {
+                text-align: left;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+}
+
+#fp-offer-prostewitryny {
+    text-align: center;
+
+    h2 {
+        margin-bottom: 50px;
+    }
+
+    i {
+        color: $second-color;
+        font-size: 80px;
+        margin-bottom: 25px;
+    }
+
+    h3 {
+        font-size: 20px;
+        font-weight: 700;
+        color: $third-color;
+
+    }
+
+    p {
+        text-align: justify;
+        font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 60px;
     }
 }
 

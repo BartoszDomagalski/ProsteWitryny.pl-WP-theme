@@ -37,7 +37,7 @@
 				<div class="row top-contact-row" id="top-contact-row-id">
 					<div class="col-2 social-col">
 						<a href="https://www.facebook.com/ProsteWitryny" target="_blank" aria-label="Przejdź do firmowego facebooka">
-							<i class="fa-brands fa-facebook-f top-social-icon fb-top"></i> fb
+							<i class="fa-brands fa-facebook-f top-social-icon fb-top"></i>
 						</a>
 					</div>
 					
