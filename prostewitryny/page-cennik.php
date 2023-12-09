@@ -164,7 +164,7 @@ get_header(); ?>
                         <a href=""><i class="fa-regular fa-calendar-days"></i><br>Abonament</a>
                     </div>
                 </div>
-                <p>Aby dowiedzieć się więcej kliknij w jedną z powyższych możliwości rozliczenia pracy.</p>
+                <p class="rozliczenie-info">Aby dowiedzieć się więcej kliknij w jedną z powyższych możliwości rozliczenia pracy.</p>
             </div>
             <div class="col-12 col-lg-8">
                 <p>Zakupione godziny mogą być wykorzystane między innymi na usługi wymienione poniżej:</p>
