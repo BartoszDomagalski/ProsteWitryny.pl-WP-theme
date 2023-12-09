@@ -146,6 +146,104 @@ get_header(); ?>
     </div>
 </section>
 
+<section id="rozliczenieGodzinowe">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Rozliczenie godzinowe</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4 dwaRozliczenia">
+                <p>Proponujemy dwa sposoby rozliczenia:</p>
+                <div class="row">
+                    <div class="col">
+                        <a href=""><i class="fa-solid fa-business-time"></i><br>Pakiety<br>godzinowe</a>
+                    </div>
+                    <div class="col">
+                        <a href=""><i class="fa-regular fa-calendar-days"></i><br>Abonament</a>
+                    </div>
+                </div>
+                <p>Aby dowiedzieć się więcej kliknij w jedną z powyższych możliwości rozliczenia pracy.</p>
+            </div>
+            <div class="col-12 col-lg-8">
+                <p>Zakupione godziny mogą być wykorzystane między innymi na usługi wymienione poniżej:</p>
+                <div class="row">
+                    <div class="col">
+                        <ul>
+                            <li>Konfiguracja WordPress</li>
+                            <li>Rozbudowa strony</li>
+                            <li>Instalacja i konfiguracja wtyczek WordPress</li>
+                            <li>Optymalizacja Wordpress</li>
+                            <li>Optymalizacja SEO</li>
+                            <li>Aktualizacja WordPress</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <li>Pomoc techniczna WordPress</li>
+                            <li>Przeniesienie strony</li>
+                            <li>Migracja na WordPress</li>
+                            <li>Konsultacje dot strony/WordPress</li>
+                            <li>Szkolenia WordPress</li>
+                            <li>Wiele innych</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col button-col">
+                <a href="" class="strona-button">Czytaj więcej...</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="platneJednorazowo">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Usługi płatne jednorazowo</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4">
+                <p>Ta forma rozliczania może być użyta, gdy chodzi o wykonanie usług, które można dokładnie wycenić. Usługi powinny być jasno opisane, z zamkniętym zestawem wymagań, gdy Twoj WordPress nie posiada znacznych modyfikacji. Kilka przykładów usług:</p>
+                <ul>
+                    <li>Nowa strona internetowa</li>
+                    <li>Stworzenie i wdrożenie nowej szaty graficznej</li>
+                    <li>Aktualizacja WordPress</li>
+                    <li>Instalacja i konfiguracja wtyczek WordPress</li>
+                    <li>Przeniesienie strony na inny serwer/domenę</li>
+                    <li>Aktualizacja wtyczek</li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-4 dwaRozliczenia">
+                <p>Nowe strony WWW oferujemy w dwóch wariantach:</p>
+                <div class="row">
+                    <div class="col">
+                        <a class="icon-var" href=""><i class="fa-solid fa-house"></i><br>BASIC</a>
+                    </div>
+                    <div class="col">
+                        <a class="icon-var" href=""><i class="fa-solid fa-city"></i><br>PREMIUM</a>
+                    </div>
+                </div>
+                <a class="low-link" href="">Zobacz cennik nowych stron internetowych.</a>
+                <p>W celu wyceny pozostałych usług <a href="/kontakt">skontaktuj się z nami</a>.<br>Zazwyczaj odpowiadamy w 24 godziny.</p>
+            </div>
+            <div class="col-12 col-lg-4">
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col button-col">
+                <a href="" class="strona-button">Czytaj więcej...</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section id="why-we" class="text-center">
     <div class="container-fluid">
         <div class="row">

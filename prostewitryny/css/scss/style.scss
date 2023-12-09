@@ -928,14 +928,6 @@ section#what-we-do {
         margin-bottom: 50px;
     }
 
-    #webpages-offer-box-std {
-        background-image: url(../img/glowna/webpages-offer-background-std.webp);
-    }
-
-    #webpages-offer-box-premium {
-        background-image: url(../img/glowna/webpages-offer-background-premium.webp);
-    }
-
     .webpages-offer-box {
         background-repeat: no-repeat;
         background-position: top center;
@@ -957,6 +949,10 @@ section#what-we-do {
             min-height: 202px;
             margin-left: 210px;
             text-align: left;
+
+            @media (min-width: 768px) and (max-width: 991px) {
+                margin-left: 160px;
+            }
 
             h3 {
                 font-size: 20px;
@@ -1003,6 +999,39 @@ section#what-we-do {
             }
         }
     }
+
+    #webpages-offer-box-std {
+        background-image: url(../img/glowna/webpages-offer-background-std.webp);
+
+        @media (max-width: 1199px) {
+            background-position: 5% 0%;
+        }
+
+        @media (max-width: 991px) {
+            background-position: 20% 0%;
+        }
+
+        @media (max-width: 550px) {
+            background-position: 0% 0%;
+        }
+    }
+
+    #webpages-offer-box-premium {
+        background-image: url(../img/glowna/webpages-offer-background-premium.webp);
+
+        @media (max-width: 1199px) {
+            background-position: 5% 0%;
+        }
+
+        @media (max-width: 991px) {
+            background-position: 20% 0%;
+        }
+        
+        @media (max-width: 550px) {
+            background-position: 0% 0%;
+        }
+    }
+
 }
 
 #fp-offer-prostewitryny {
@@ -1104,6 +1133,82 @@ section#why-we {
         h3 {
             font-size: 24px;
         }
+    }
+}
+
+#rozliczenieGodzinowe {
+    
+    
+    h2 {
+        text-align: center;
+    }
+
+    .dwaRozliczenia {
+
+
+        i {
+            font-size: 125px;
+            color: $second-color;
+        }
+
+        a {
+            color: $second-color;
+            font-size: 22px;
+            font-weight: 700;
+            text-transform: uppercase;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        .col {
+            text-align: center;
+        }
+    }
+
+    .button-col {
+        text-align: center;
+    }
+}
+
+#platneJednorazowo {
+    h2 {
+        text-align: center;
+    }
+
+    .dwaRozliczenia {
+
+
+        i {
+            font-size: 125px;
+            color: $second-color;
+        }
+
+        .icon-var {
+            color: $second-color;
+            font-size: 22px;
+            font-weight: 700;
+            text-transform: uppercase;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        .col {
+            text-align: center;
+        }
+
+        .low-link {
+            text-transform: none;
+            font-size: 20px;
+            color: $second-color;
+        }
+    }
+
+    .button-col {
+        text-align: center;
     }
 }
 
