@@ -143,19 +143,19 @@ get_header(); ?>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
             <i class="fa-solid fa-thumbs-up"></i>
-                <h3>Firmowe profile społecznościowe</h3>
+                <h3>Zakładanie profili społecznościowych</h3>
                 <p>Profesjonalne zarządzanie profilami społecznościowymi firmy, budując zaangażowanie klientów i tworząc pozytywny wizerunek marki w mediach społecznościowych.</p>
             </div>
-            <div class="col-12 col-md-6 col-lg-4">
+            <!-- <div class="col-12 col-md-6 col-lg-4">
             <i class="fa-solid fa-chart-simple"></i>
                 <h3>E-marketing</h3>
                 <p>Skuteczne strategie e-marketingu obejmujące kampanie reklamowe, analizę konkurencji, optymalizację treści, by zwiększyć widoczność i przyciągnąć nowych klientów.</p>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4">
+            </div> -->
+            <!-- <div class="col-12 col-md-6 col-lg-4">
             <i class="fa-solid fa-medal"></i>
                 <h3>Identyfikacja wizualna</h3>
                 <p>Tworzenie unikalnej tożsamości wizualnej marki poprzez projektowanie logo, kolorów i elementów graficznych, budując rozpoznawalność i wyróżniając się na rynku.</p>
-            </div>
+            </div> -->
             
         </div>
     </div>
