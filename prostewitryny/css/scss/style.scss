@@ -2478,6 +2478,164 @@ section#kontakt-dane {
 
 
 
+/*============================================================================*/
+/*Strona Rozliczenie godzinowe - Styles*/
+/*============================================================================*/
+
+#rozliczenie-godzinowe {
+
+
+    h2 {
+        text-align: center;
+        padding: 50px 0;
+    }
+
+    .cena-col-box {
+        background-color: $third-color;
+        color: $theme-color;
+        padding: 75px;
+        padding-top: 50px;
+    }
+
+    .cena-box {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: 0 auto;
+        background-color: $theme-color;
+        color: $second-color;
+
+        p {
+            text-align: center;
+            color: $second-color;
+            font-size: 30px;
+            font-weight: 700;
+            padding-top: 15px;
+
+            span {
+                font-size: 100px;
+                line-height: 110px;
+            }
+        }
+    }
+
+    h3 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    .right-col {
+
+
+        p {
+            font-size: 16px;
+        }
+    }
+}
+
+
+/*============================================================================*/
+/*Strona Abonament Styles*/
+/*============================================================================*/
+
+#sekcja-abonament {
+
+
+    h2 {
+        text-align: center;
+        padding: 50px 0;
+    }
+
+    .cena-col-box {
+        background-color: $third-color;
+        color: $theme-color;
+        padding: 75px;
+        padding-top: 50px;
+    }
+
+    .cena-box {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: 0 auto;
+        background-color: $theme-color;
+        color: $second-color;
+
+        p {
+            text-align: center;
+            color: $second-color;
+            font-size: 30px;
+            font-weight: 700;
+            padding-top: 15px;
+
+            span {
+                font-size: 100px;
+                line-height: 110px;
+            }
+        }
+    }
+
+    h3 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    .right-col {
+
+
+        p {
+            font-size: 16px;
+        }
+    }
+}
+
+section#dlaczego-warto {
+    background-color: $third-color;
+    color: $theme-color;
+
+    h3 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+
+    li {
+        text-align: justify;
+    }
+
+    i {
+        font-size: 300px;
+    }
+}
+
+#co-daje-abonament {
+
+
+    h3 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-top: 25px;
+    }
+
+    li {
+        text-align: justify;
+    }
+}
+
 
 
 /*============================================================================*/
