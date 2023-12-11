@@ -30,7 +30,12 @@ get_header(); ?>
                         <li>Szkolenia WordPress</li>
                         <li>Wiele innych</li>
                     </ul>
-                    <p>*netto. Ceny - zależne są od usługi i pakietu godzin. Potrzebujesz informacji lub konkretnej wyceny? Napisz do nas już teraz.</p>
+                    <p class="abonament-dolny-akapit">*netto. Ceny - zależne są od usługi i pakietu godzin. Potrzebujesz informacji lub konkretnej wyceny? Napisz do nas już teraz.</p>
+                    <div class="row button-row">
+                        <div class="col">
+                        <a href="" class="strona-button">Zapytaj o wycenę</a>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-12 col-lg-6 right-col">

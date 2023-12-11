@@ -87,7 +87,7 @@
 							'container_id'    => 'primary-menu',
 							'container_class' => 'collapse navbar-collapse justify-content-end',
 							'menu_class'      => 'navbar-nav ml-auto',
-							'depth'           => 2,
+							'depth'           => 3,
 							'fallback_cb'     => 'WP_Bootstrap_Navwalker::fallback',
 							'walker'          => new WP_Bootstrap_Navwalker(),
 						)

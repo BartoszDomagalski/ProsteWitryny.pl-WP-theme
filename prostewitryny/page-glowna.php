@@ -225,7 +225,7 @@ get_header(); ?>
                 <p>Proponujemy dwa sposoby rozliczenia:</p>
                 <div class="row">
                     <div class="col">
-                        <a href="<?php echo site_url('/rozliczenie-godzinowe'); ?>"><i class="fa-solid fa-business-time"></i><br>Pakiety<br>godzinowe</a>
+                        <a href="<?php echo site_url('/pakiety-godzinowe'); ?>"><i class="fa-solid fa-business-time"></i><br>Pakiety<br>godzinowe</a>
                     </div>
                     <div class="col">
                         <a href="<?php echo site_url('/abonament'); ?>"><i class="fa-regular fa-calendar-days"></i><br>Abonament</a>
