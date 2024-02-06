@@ -421,10 +421,10 @@ p {
 
         .dropdown-item:focus, .dropdown-item:hover {
             background-color: transparent;
-            color: $theme-color !important;
+            color: $second-color !important;
     
             span {
-                color: $theme-color !important;
+                color: $second-color!important;
             }
     
         }

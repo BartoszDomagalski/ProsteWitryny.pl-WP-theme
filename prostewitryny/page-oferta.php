@@ -88,6 +88,45 @@ get_header(); ?>
     </div>
 </section>
 
+<section id="why-we" class="text-center">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Dlaczego my?</h2>
+                <h4>Współpraca z nami to przede wszystkim:</h4>
+            </div>
+        </div>
+        <div class="row assets-row">
+            <div class="col-6 col-lg-3 col-xl-2">
+                <i class="fa-solid fa-piggy-bank"></i>
+                <h3>Atrakcyjne ceny</h3>
+            </div>
+            <div class="col-6 col-lg-3 col-xl-2">
+                <i class="fa-solid fa-bullseye"></i>
+                <h3>Indywidualne podejście</h3>
+            </div>
+            <div class="col-6 col-lg-3 col-xl-2">
+                <i class="fa-solid fa-circle-info"></i>
+                <h3>Rzetelne doradztwo</h3>
+            </div>
+            <div class="col-6 col-lg-3 col-xl-2">
+                <i class="fa-solid fa-headset"></i>
+                <h3>Wsparcie na każdym etapie</h3>
+            </div>
+            <div class="col-6 col-lg-3 col-xl-2">
+            <i class="fas fa-bed"></i>
+                <h3>Spokój i bezpieczeństwo</h3>
+            </div>
+            <div class="col-6 col-lg-3 col-xl-2">
+                <i class="fa-solid fa-graduation-cap"></i>
+                <h3>Wiedza i doświadczenie</h3>
+            </div>
+        </div>
+        
+    </div>
+
+</section>
+
 <section id="fp-offer-prostewitryny">
     <div class="container-fluid">
         <div class="row">
@@ -161,6 +200,106 @@ get_header(); ?>
     </div>
 </section>
 
+
+<section id="rozliczenieGodzinowe">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Rozliczenie godzinowe</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4 dwaRozliczenia">
+                <p>Proponujemy dwa sposoby rozliczenia:</p>
+                <div class="row">
+                    <div class="col">
+                        <a href="<?php echo site_url('/pakiety-godzinowe'); ?>"><i class="fa-solid fa-business-time"></i><br>Pakiety<br>godzinowe</a>
+                    </div>
+                    <div class="col">
+                        <a href="<?php echo site_url('/abonament'); ?>"><i class="fa-regular fa-calendar-days"></i><br>Abonament</a>
+                    </div>
+                </div>
+                <p class="rozliczenie-info">Aby dowiedzieć się więcej kliknij w jedną z powyższych możliwości rozliczenia pracy.</p>
+            </div>
+            <div class="col-12 col-lg-8">
+                <p>Zakupione godziny mogą być wykorzystane między innymi na usługi wymienione poniżej:</p>
+                <div class="row">
+                    <div class="col">
+                        <ul>
+                            <li>Konfiguracja WordPress</li>
+                            <li>Rozbudowa strony</li>
+                            <li>Instalacja i konfiguracja wtyczek WordPress</li>
+                            <li>Optymalizacja Wordpress</li>
+                            <li>Optymalizacja SEO</li>
+                            <li>Aktualizacja WordPress</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <li>Pomoc techniczna WordPress</li>
+                            <li>Przeniesienie strony</li>
+                            <li>Migracja na WordPress</li>
+                            <li>Konsultacje dot strony/WordPress</li>
+                            <li>Szkolenia WordPress</li>
+                            <li>Wiele innych</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col button-col">
+                <a href="" class="strona-button">Czytaj więcej...</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="platneJednorazowo">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h2>Usługi płatne jednorazowo</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4">
+                <p>Ta forma rozliczania może być użyta, gdy chodzi o wykonanie usług, które można dokładnie wycenić. Usługi powinny być jasno opisane, z zamkniętym zestawem wymagań, gdy Twoj WordPress nie posiada znacznych modyfikacji. Kilka przykładów usług:</p>
+                <ul>
+                    <li>Nowa strona internetowa</li>
+                    <li>Stworzenie i wdrożenie nowej szaty graficznej</li>
+                    <li>Aktualizacja WordPress</li>
+                    <li>Instalacja i konfiguracja wtyczek WordPress</li>
+                    <li>Przeniesienie strony na inny serwer/domenę</li>
+                    <li>Aktualizacja wtyczek</li>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-4 dwaRozliczenia">
+                <p>Nowe strony WWW oferujemy w dwóch wariantach:</p>
+                <div class="row">
+                    <div class="col">
+                        <a class="icon-var" href=""><i class="fa-solid fa-house"></i><br>BASIC</a>
+                    </div>
+                    <div class="col">
+                        <a class="icon-var" href=""><i class="fa-solid fa-city"></i><br>PREMIUM</a>
+                    </div>
+                </div>
+                <a class="low-link" href="">Zobacz cennik nowych stron internetowych.</a>
+                <p>W celu wyceny pozostałych usług <a href="/kontakt">skontaktuj się z nami</a>.<br>Zazwyczaj odpowiadamy w 24 godziny.</p>
+            </div>
+            <div class="col-12 col-lg-4">
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col button-col">
+                <a href="" class="strona-button">Czytaj więcej...</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section id="cennik">
 
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
@@ -208,6 +347,38 @@ get_header(); ?>
 
 </section>
 
+
+<section id="hosting">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <h2>Hosting i Domena</h2>
+        <p class="opisNaglowka">Dwie usługi konieczne do prowadzenia strony internetowej.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-5 img-col">
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/hosting/domain.webp" alt="Hosting i Domena">
+      </div>
+      <div class="col-12 col-lg-7 text-col">
+        <h4>Czym są usługa Hostingu i Domena?</h4>
+        <p>Jeśli chcesz mieć profesjonalną stronę internetową dla swojej firmy, musisz pamiętać o dwóch ważnych elementach: domenie i hostingu. Aby Twoja strona była dostępna w internecie, musisz wykupić i opłacać rocznie domenę i hosting u odpowiedniego dostawcy:</p>
+        <ul>
+          <li><strong>Domena</strong><br>to adres Twojej strony w sieci, np. www.twoja-firma.pl <span><br>(Cena ok. 60zł/rok)</span></li>
+          <li><strong>Hosting</strong><br>to miejsce, gdzie przechowywane są pliki i dane Twojej strony <span><br>(Cena ok. 100zł/rok)</span></li>
+        </ul>
+        <p> My, jako profesjonalni eksperci od tworzenia stron internetowych, pomożemy Ci w wyborze najlepszej oferty i zajmiemy się wszystkimi formalnościami. Z nami stworzysz atrakcyjną i funkcjonalną stronę internetową dla swojej firmy, która przyciągnie nowych klientów i zwiększy Twoje zyski.</p>
+      </div>
+    </div>
+    <div class="row bottom-row">
+        <div class="col ">
+            <p>Prostą stronę - wizytówkę Twojej firmy, możesz przechowywać u nas na serwerze w znacząco niższej cenie - 50 zł netto / rok.<br>W ten sposób możesz zaoszczędzić na usłudze Hostingu.</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+
 <section id="oferta-dodatkowe-uslugi">
 
 <div class="container-fluid">
@@ -237,44 +408,7 @@ get_header(); ?>
 
 </section>
 
-<section id="why-we" class="text-center">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col">
-                <h2>Dlaczego my?</h2>
-                <h4>Współpraca z nami to przede wszystkim:</h4>
-            </div>
-        </div>
-        <div class="row assets-row">
-            <div class="col-6 col-lg-3 col-xl-2">
-                <i class="fa-solid fa-piggy-bank"></i>
-                <h3>Atrakcyjne ceny</h3>
-            </div>
-            <div class="col-6 col-lg-3 col-xl-2">
-                <i class="fa-solid fa-bullseye"></i>
-                <h3>Indywidualne podejście</h3>
-            </div>
-            <div class="col-6 col-lg-3 col-xl-2">
-                <i class="fa-solid fa-circle-info"></i>
-                <h3>Rzetelne doradztwo</h3>
-            </div>
-            <div class="col-6 col-lg-3 col-xl-2">
-                <i class="fa-solid fa-headset"></i>
-                <h3>Wsparcie na każdym etapie</h3>
-            </div>
-            <div class="col-6 col-lg-3 col-xl-2">
-            <i class="fas fa-bed"></i>
-                <h3>Spokój i bezpieczeństwo</h3>
-            </div>
-            <div class="col-6 col-lg-3 col-xl-2">
-                <i class="fa-solid fa-graduation-cap"></i>
-                <h3>Wiedza i doświadczenie</h3>
-            </div>
-        </div>
-        
-    </div>
 
-</section>
 
 <section id="fp-contact" class="inny-kontakt">
     <div class="container-fluid">
